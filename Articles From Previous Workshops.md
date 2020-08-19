@@ -2,7 +2,7 @@ We know it can be complicated to hear about a process from the people who specia
 
 __Start here if time is limited:__
 
-* What is an Ideas Lab: A description from PLOS [http://currents.plos.org/treeoflife/article/the-ideas-lab-concept-assembling-the-tree-of-life-and-avatol/ The Ideas Lab Concept, Assembling the Tree of Life, and AVAToL]
+* What is an Ideas Lab: A description from PLOS [](http://currents.plos.org/treeoflife/article/the-ideas-lab-concept-assembling-the-tree-of-life-and-avatol/ The Ideas Lab Concept, Assembling the Tree of Life, and AVAToL)
 * What might emerge from an Ideas Lab: One story from Cracking the Olfactory Code [http://www.pbs.org/newshour/updates/what-a-smell-looks-like/ What a Smell Looks Like]
 * Data Science Innovation Lab 2018: The Mathematical Challenges of Single Cell Dynamics [[File(DSIL_Book_Final.pdf, details="off")]] 
 * [https://inds.umbc.edu/files/2019/01/Ideaslab-Booklet_FINAL-1.pdf Assessment of the 2016 Origins Ideas Lab: A Fresh Approach to Generating Scientific Research ]
