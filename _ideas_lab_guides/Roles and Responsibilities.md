@@ -1,5 +1,6 @@
 ---
 title: Roles and Responsibilities
+layout: default
 ---
 = An Overview of the Workshop Process and Roles =
 === Introduction ===

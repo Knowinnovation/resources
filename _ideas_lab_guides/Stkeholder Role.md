@@ -1,5 +1,6 @@
 ---
-title: Stkeholder Role
+title: Stakeholder Role
+layout: default
 ---
 The best way to be sure that the participants can get a full grasp of the context of the challenge is to invite people to address the group who have real experience with the issue, like experts in fields related to the workshop topic from government, industry, lobbyists, or citizen/user groups. In some cases, depending on the nature of the workshop, Stakeholders can be mentors or even funders. In other cases, Stakeholders are invited to spend one day at the workshop to make a presentation to the group and to be available to answer questions.
 

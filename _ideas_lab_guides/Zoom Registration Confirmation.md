@@ -1,5 +1,6 @@
 ---
 title: Zoom Registration Confirmation
+layout: default
 ---
 Note: This was used with the ECICC microlabs. It is designed to go inside the standard Zoom confirmation email.
 

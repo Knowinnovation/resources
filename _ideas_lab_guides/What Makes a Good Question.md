@@ -1,5 +1,6 @@
 ---
 title: What Makes a Good Question
+layout: default
 ---
 A good question:
 * is specific enough in scope that it doesn’t appear vast and impossible to solve;

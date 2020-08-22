@@ -1,5 +1,6 @@
 ---
 title: Selection Panel Process
+layout: default
 ---
 === The Selection Process ===
 

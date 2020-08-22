@@ -1,5 +1,6 @@
 ---
 title: Recommended Application Questions
+layout: default
 ---
 #### Typical biographical details ####
 * Prefix

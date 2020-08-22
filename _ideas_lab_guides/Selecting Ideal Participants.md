@@ -1,5 +1,6 @@
 ---
 title: Selecting Ideal Participants
+layout: default
 ---
 == Selecting the Participants ==
 

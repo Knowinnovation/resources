@@ -1,5 +1,6 @@
 ---
 title: Waitlist Letter
+layout: default
 ---
 Subject: < event title >: Waitlist
 

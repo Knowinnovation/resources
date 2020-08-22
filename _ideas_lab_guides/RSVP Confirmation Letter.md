@@ -1,5 +1,6 @@
 ---
 title: RSVP Confirmation Letter
+layout: default
 ---
 Short option: 
 

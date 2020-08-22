@@ -1,5 +1,6 @@
 ---
 title: Provocation
+layout: default
 ---
 = Provocation (n.) =
 

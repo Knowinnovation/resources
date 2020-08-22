@@ -1,5 +1,6 @@
 ---
 title: Tips for Virtual Presentations
+layout: default
 ---
 Like any good presentation, you probably strive to convey your message in a succinct yet engaging manner. This can be particularly difficult for online presentations where time is difficult to track and audience cues are often impossible to gauge.  We realize your presentation is center stage and will occupy the majority of your preparation time so we have prepared a few tips to consider for creating the environment for your talk. 
 

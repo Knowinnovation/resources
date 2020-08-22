@@ -1,5 +1,6 @@
 ---
 title: What makes a good solicitation document
+layout: default
 ---
 ### Overview ###
 

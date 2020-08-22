@@ -1,5 +1,6 @@
 ---
 title: Scoring Guidance for Selection Panel Members
+layout: default
 ---
 Suitability for an Ideas Workshop rests on both the science and the person behind the science being right: the ‘right’ individual is as important – often more so – as the ‘right’ science. The ideal Ideas Workshop participants are those who come with no pre-agenda other than the excitement of an ideas-play around the subject of the event, playing as equals without being precious about themselves, their own ideas, or expertise. They enjoy starting with a clean slate, exploring draft ideas that they delight in seeing developed into vastly enhanced and exciting, novel breakthroughs, all achieved in the cut and thrust of a collaborative setting.
 

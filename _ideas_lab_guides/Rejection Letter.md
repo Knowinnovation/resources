@@ -1,5 +1,6 @@
 ---
 title: Rejection Letter
+layout: default
 ---
 Subject: < event title > Application Decision
 
