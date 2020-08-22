@@ -1,5 +1,6 @@
 ---
 title: History of Knowinnovation Workshops
+layout: default
 ---
 # The Ideas Lab#
 

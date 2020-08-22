@@ -1,5 +1,6 @@
 ---
 title: Letter to Director
+layout: default
 ---
 Dear < name >,
 <p>

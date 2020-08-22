@@ -1,5 +1,6 @@
 ---
 title: Letter Foursight
+layout: default
 ---
 Hello
 We are looking forward to meeting you tomorrow at the Student Futures event, and as you know one of the things we will be doing is talking about problem solving styles, and how they can affect team collaboration.
@@ -9,7 +10,7 @@ However, just before your finger clicks the mouse button... People sometimes hav
 - Foursight doesn't say anything about the quality of your problem solving, it only looks at your style. It is the psychological equivalent of whether you are right or left handed. So, the results are neither good, nor bad.
 - The assessment is confidential. Your results are intended only for your own use, and we do not share them. However, people are usually very happy to share their results, because they provide an interesting insight into how they, and their colleagues, work together.
 - Completing the instrument is entirely voluntary. Choosing not to complete it won't limit your ability to participate in anyway.
-If you have any questions or concerns regarding the instrument, please email me Liz.Ogilvie@knowinnovation.com or Andy.Burnett@knowinnovation.com
+If you have any questions or concerns regarding the instrument, please email me <<contact email>>
  
 Please click
 (Link goes here)

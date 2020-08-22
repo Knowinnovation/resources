@@ -1,7 +1,8 @@
 ---
 title: Letter to Plus 10 Speakers
+layout: default
 ---
-''Plus Talks are a specific type of provocation. We invite people to come and give the 5-10 minute version of the papers that they are going to give in 10 years' time. The intention is to let them think far enough into the future so that they aren't constrained by immediate reality, but close enough so that it isn't pure science fiction. The purpose of the presentation is to let the audience identify the challenges that would have to be overcome, and the possible ways in which that might be done.''
+Plus Talks are a specific type of provocation. We invite people to come and give the 5-10 minute version of the papers that they are going to give in 10 years' time. The intention is to let them think far enough into the future so that they aren't constrained by immediate reality, but close enough so that it isn't pure science fiction. The purpose of the presentation is to let the audience identify the challenges that would have to be overcome, and the possible ways in which that might be done.''
 
 Dear < name >,
 

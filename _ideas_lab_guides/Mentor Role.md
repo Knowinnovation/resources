@@ -1,5 +1,6 @@
 ---
 title: Mentor Role
+layout: default
 ---
 The Mentors are similar to “peer reviewers” but with a much more creative role: to connect and catalyze. They have a potential role in selecting the participants before the event begins, and commenting on the research projects that emerge from the workshop, with the overall aim to ensure that the event leads to high-quality innovative research.
 

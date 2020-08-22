@@ -1,5 +1,6 @@
 ---
 title: Mentor Guidelines
+layout: default
 ---
 Mentors are similar to "peer reviewers" with more of a guidance role. They work to provide objective advice and input to the participants at the workshop, with the overall aim to ensure that the workshop leads to high-quality innovative research.
 

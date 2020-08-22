@@ -1,5 +1,6 @@
 ---
 title: Guidelines for Recording Presentations
+layout: default
 ---
 Hello,
 

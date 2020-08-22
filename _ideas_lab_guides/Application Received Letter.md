@@ -1,5 +1,6 @@
 ---
 title: Application Received Letter
+layout: default
 ---
 Subject: < event title > Decisions by < date >
 

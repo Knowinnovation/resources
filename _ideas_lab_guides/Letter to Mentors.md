@@ -1,5 +1,6 @@
 ---
 title: Letter to Mentors
+layout: default
 ---
 Dear < name >,
 <p>

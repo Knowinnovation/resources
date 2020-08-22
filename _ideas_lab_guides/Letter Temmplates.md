@@ -1,22 +1,22 @@
 ---
 title: Letter Temmplates
+layout: default
 ---
 
 Here you will find a collection of letter templates that can be personalized and sent out to your Director, Mentors, Speakers, Selection Panel, and Applicants. Please be sure to update these letters with the appropriate information (event title, dates, and responsibilities) that reflects the specifics of your event.
-[[Column(end)]]
-[[Column(start)]]
+
 Director
-[[br]]
- - [LetterToDirector Letter to Director]
+ - [Letter To Director](Letter to Director)
+
 Mentors
-[[br]]
- - [LetterToMentors Letter to Mentors]
+ - [Letter To Mentors](Letter to Mentors)
+
 Provocateurs
-[[br]]
- - [LetterToProvocateurs Letter to Provocateurs][[br]]
- - [LetterToPlusTen Letter to +10 Speakers]
+ - [Letter To Provocateurs](Letter to Provocateurs)
+ - [Letter To Plus Ten Speakers](Ten Letter to +10 Speakers)
+
 Selection Panel
-[[br]]
+
  - [LetterToSelectionPanel Letter to Selection Panel]
 Applicants and Participants[[br]]
  - [Letter:ApplicationReceivedDecisionComing Letter: Application Received, Decision Coming][[br]]

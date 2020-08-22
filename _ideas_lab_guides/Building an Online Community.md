@@ -1,5 +1,6 @@
 ---
 title: Building an Online Community
+layout: default
 ---
 === Collaboration Tools ===
 Over the last few years, we have found that many events can benefit from some form of collaborative technology. That are lots of systems to choose from:  [https://www.google.com/docs/about/ Google Docs] provides a great way for everyone to contribute to the development of initial ideas, and planning tools, such as [https://trello.com/ Trello], can really help teams to develop action plans.

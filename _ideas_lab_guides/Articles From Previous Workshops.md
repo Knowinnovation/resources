@@ -1,5 +1,6 @@
 ---
 title: Articles From Previous Workshops
+layout: default
 ---
 We know it can be complicated to hear about a process from the people who specialize in it. To give you a broader perspective on the workshops that we offer, we've included articles and websites from different perspectives: clients, mentors, participants, and major news broadcasters.
 

@@ -1,5 +1,6 @@
 ---
 title: Guidelines for Reviewing Participant Applications
+layout: default
 ---
 The following text was written by the Organisational Psychologist, Dr. Bharat Malde. It is offered as guidelines for how the reviewers should approach the task of appraising each potential participant.
 

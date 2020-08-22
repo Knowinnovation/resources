@@ -1,5 +1,6 @@
 ---
 title: Assembling, Visualizing, and Analyzing the Tree of Life (AVAToL)
+layout: default
 ---
 Assembling, Visualizing, and Analyzing the Tree of Life (!AVAToL) was held in 2011. After the event, a [http://avatol.org/ full website] was created around the projects that came out of it. Funded projects include:
  * Automated and Community-Driven Synthesis of the Tree of Life (AKA Open Tree of Life) [https://blog.opentreeoflife.org/ (Project website)]

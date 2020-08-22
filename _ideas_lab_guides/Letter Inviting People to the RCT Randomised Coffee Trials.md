@@ -1,5 +1,6 @@
 ---
 title: Letter Inviting People to the RCT Randomised Coffee Trials
+layout: default
 ---
 Hello,
 

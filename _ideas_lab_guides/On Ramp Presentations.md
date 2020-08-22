@@ -1,5 +1,6 @@
 ---
 title: On Ramp Presentations
+layout: default
 ---
 An on-ramp presentation has two purposes:
 * To provide non-experts with an introduction to a particular perspective on a problem

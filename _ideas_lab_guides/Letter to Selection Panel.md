@@ -1,5 +1,6 @@
 ---
 title: Letter to Selection Panel
+layout: default
 ---
 Dear Colleagues,
 <p>
@@ -17,7 +18,7 @@ The final participant list needs to comprise people who are enthusiastic about t
 <p>
 The ideal KI workshop participants are those who come with no pre-agenda other than the excitement around the subject of the workshop. They are able to work together as equals without being precious about themselves, their own ideas, or their expertise. They enjoy starting with a clean slate or playing around with draft ideas that they delight in seeing developed in a collaborative setting into vastly enhanced and exciting, novel breakthroughs.
 
-When thinking about your overall selections, please bear in mind that a diverse mix of the right kind of participants is important to boost the innovation richness and dynamic: ensure that the invited group is a good mix across early to senior careers*, gender, culture, type of institute, and life experience. More on diversity can be found [http://hub.ki/groups/resources/wiki/SelectingParticipants here].
+When thinking about your overall selections, please bear in mind that a diverse mix of the right kind of participants is important to boost the innovation richness and dynamic: ensure that the invited group is a good mix across early to senior careers*, gender, culture, type of institute, and life experience. More on diversity can be found [here](Selecting Ideal Participants).
 
 *''When picking senior academics or specialists, please be on guard to pick those who are able to play as equals with the rest rather than come with an imposing eminence that can easily disenfranchise other participants. In this respect, early-careers, if picked well, come with the advantage of being free of any burden to have to protect reputation, name, and fame, the latter occupying the wrong end of Ideas Workshop suitability.''
 <p>

@@ -1,5 +1,6 @@
 ---
 title: Identifying the Required Disciplines
+layout: default
 ---
 In order to attract the right people to your event, we suggest a few simple guidelines:
 * Define which disciplines should be represented at the workshop (be specific).

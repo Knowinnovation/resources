@@ -1,5 +1,6 @@
 ---
 title: Letter to Provocateurs
+layout: default
 ---
 === Option 1 ===
 

@@ -1,5 +1,6 @@
 ---
 title: Agenda for Mentor Premeeting
+layout: default
 ---
 === Agenda ===
  # Introductions

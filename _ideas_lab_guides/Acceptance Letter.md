@@ -1,5 +1,6 @@
 ---
 title: Acceptance Letter
+layout: default
 ---
 Subject: RSVP for < event name > by < RSVP date >
 

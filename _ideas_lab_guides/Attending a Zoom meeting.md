@@ -1,5 +1,6 @@
 ---
 title: Attending a Zoom meeting
+layout: default
 ---
 In order to attend a zoom meeting, you will need to:
  # Install the Zoom client. You can download the software for your computer (or smartphone) [ https://zoom.us/support/download 

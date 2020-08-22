@@ -1,5 +1,6 @@
 ---
 title: Data-Intensive Research to Improve Teaching and Learning
+layout: default
 ---
 Data-Intensive Research to Improve Teaching and Learning was held in 2013. Funded projects include:
  * [Revealing the Invisible - Data-Intensive Research Using Cognitive, Psychological, and Physiological Measures to Optimize STEM Learning](http://nsf.gov/awardsearch/showAward?AWD_ID=1417456&HistoricalAwards=false)
