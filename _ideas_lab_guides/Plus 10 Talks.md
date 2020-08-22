@@ -1,5 +1,6 @@
 ---
 title: Plus 10 Talks
+layout: default
 ---
 === Background ===
 

@@ -1,5 +1,6 @@
 ---
 title: Preselection Panel Email When Focusing on Early Career Applicants
+layout: default
 ---
 If the focus of the event is on early career researchers, it can be helpful to remind the panelists about he selection criteria. A suggested email is shown below.
 

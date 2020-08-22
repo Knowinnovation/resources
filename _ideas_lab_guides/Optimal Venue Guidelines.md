@@ -3,7 +3,7 @@ title: Optimal Venue Guidelines
 layout: default
 ---
 These recommendations are offered on the basis of our extensive experience in running innovation workshops. However, the specific requirements for each event will be defined in conjunction with your event”s project manager, so please treat these recommendations as broad guidelines. For a visual example of an ideal room layout, please see [[File(Ideal_Room_Layout.pdf)]].
-=== Meeting Rooms ===
+### Meeting Rooms
  * A large main meeting room space with plenty of room to move around. A good rule of thumb: it should be twice the size necessary to seat everyone at small round tables. For instance, you need 1800-2200 ft^2^ (170-205 m^2^) for a workshop of 25-30 participants.
  * Carpeting on the floor to absorb sound
  * Round tables that seat 6 people in crescent round format (no long boardroom tables, please!)
@@ -16,7 +16,7 @@ These recommendations are offered on the basis of our extensive experience in ru
  * A dedicated room for mentors to meet
  * Fast !WiFi - everywhere {this is essential!}
  * Power strips for recharging
-=== A/V Facilities ===
+### A/V Facilities 
  * At least 1 LCD projector
  * A good sound system that will connect with a computer or an iPad
  * Two wireless microphones
@@ -24,7 +24,7 @@ These recommendations are offered on the basis of our extensive experience in ru
 [[image(https://hub.ki/groups/resources/File:/uploads/1491465891_1271007.jpg)]]
 [[image(https://hub.ki/groups/resources/File:/uploads/20191003_120610.jpg)]]
  * At least 2 pads of flip-chart paper per stand: 3M brand Post-it styled is preferred
-=== Catering ===
+### Catering 
  * Drinking water, plenty of it, should be abundantly available during the session
  * Coffee and tea available continuously
  * Healthy snack offerings as well as indulgent ones

@@ -1,5 +1,6 @@
 ---
 title: Proforma Template and What Makes a Great Proposal
+layout: default
 ---
 Before beginning the process of designing the agenda, it’s important to understand the final output that participants will be asked to produce at the workshop. This usually consists of a short presentation and 2-page summary of their project proposals (see template below). During  the agenda designing process, it is helpful to have the Organizing Committee review and customize this template. The Organizing Committee should also identify the key criteria that will be used to assess the quality of each section of the template. Below is a sample of a template that may be provided to participants.
 
