@@ -1,5 +1,7 @@
 ---
 title: Event Directors Start Here
+layout: default
+homePage: true
 ---
 Thank you for agreeing to take on the role of the Director at the upcoming workshop! Having a Director at an event gives participants a colleague to look to for guidance and perspective, who is also an expert in the field. Although each event is different, the Director’s role usually includes:
 * Acting as the leader of the event.

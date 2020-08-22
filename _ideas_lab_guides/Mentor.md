@@ -1,5 +1,7 @@
 ---
 title: Mentor
+layout: default
+homePage: true
 ---
 Thank you for agreeing to be a Mentor at the upcoming workshop! Mentors are similar to “peer reviewers” but with a much more creative role: to connect and catalyze. The Mentor team is usually a diverse group, providing expertise on various dimensions of the problem. Although each event is different, the Mentor role usually includes:
  * Encouraging new ideas by asking questions.
