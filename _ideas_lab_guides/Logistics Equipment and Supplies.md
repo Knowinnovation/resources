@@ -1,6 +1,6 @@
 ---
 title: Logistics Equipment and Supplies
-
+layout: default
 ---
 ### Equipment & Supplies
 For a detailed list of supplies that we recommend at our workshops, please see our [materials checklist on Amazon](http://amzn.com/w/1S78OKX23HPSY) .
