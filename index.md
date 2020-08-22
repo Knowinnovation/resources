@@ -10,9 +10,9 @@ We have organized the resources into "pathways". Each pathway is designed to mee
 
 temp
 
-{%- for each in site -%}
+{%- for each in site.ideas_lab_guides -%}
 
-{% if each.homePage == "true" then %}
+{% if each.homePage == true then %}
 
 * [{{each.title}}]({{each.url}})
 
