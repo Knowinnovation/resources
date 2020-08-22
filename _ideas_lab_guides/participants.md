@@ -1,6 +1,7 @@
 ---
 title: Participants
 includeAll: participants
+layout: default
 ---
 # Preparing Participants for the event
 
