@@ -1,0 +1,4 @@
+---
+title: Territory Map Resources
+---
+The person who developed the idea is Stephen Kobourov http://www2.cs.arizona.edu/~kobourov/

@@ -1,0 +1,7 @@
+---
+title: Assembling, Visualizing, and Analyzing the Tree of Life (AVAToL)
+---
+Assembling, Visualizing, and Analyzing the Tree of Life (!AVAToL) was held in 2011. After the event, a [http://avatol.org/ full website] was created around the projects that came out of it. Funded projects include:
+ * Automated and Community-Driven Synthesis of the Tree of Life (AKA Open Tree of Life) [https://blog.opentreeoflife.org/ (Project website)]
+ * Arbor: Comparative Analysis Workflows for the Tree of Life (AKA Arbor: Revolutionary Workflows) [http://www.arborworkflows.com/ (Project website)]
+ * Next Generation Phenomics for the Tree of Life (a breakdown of the awards that make up this project can be found [http://nsf.gov/awardsearch/simpleSearchResult?queryText=%22Avatol%22 here]) [http://avatol.org/ngp/ (Project website)]
