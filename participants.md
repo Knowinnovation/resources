@@ -10,7 +10,8 @@ This section outlines the various preparatory activities that might be useful fo
 
 {%- if each.includeIn == "participants" then -%}
 
-* [{{each.title}}]({{each.title}})
+* [{{each.title}}]({{each.url}})
+
 
 {%- endif -%}
 
