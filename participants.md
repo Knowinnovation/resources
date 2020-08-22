@@ -8,4 +8,4 @@ This section outlines the various preparatory activities that might be useful fo
 
 {% for each in site.ideas_lab_guides %}
 * [{{each.title}}]({{each.title}})
-(% endfor %})
+{% endfor %}
