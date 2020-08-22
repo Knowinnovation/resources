@@ -2,10 +2,10 @@
 title: Roles and Responsibilities
 layout: default
 includeIn: 
-- provocateurs
-- organisers
-- mentors
-- administrators
+ provocateurs
+ organisers
+ mentors
+ administrators
 ---
 = An Overview of the Workshop Process and Roles =
 === Introduction ===
