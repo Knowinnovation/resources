@@ -1,7 +1,8 @@
 ---
 title: Plus 10 Talks
 layout: default
-includeIn: provocateurs
+includeIn: 
+- provocateurs
 ---
 === Background ===
 
