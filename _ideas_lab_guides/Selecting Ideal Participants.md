@@ -1,6 +1,7 @@
 ---
 title: Selecting Ideal Participants
 layout: default
+includeIn: organizing-committee
 ---
 == Selecting the Participants ==
 

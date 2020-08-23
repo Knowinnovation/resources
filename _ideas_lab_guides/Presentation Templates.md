@@ -1,6 +1,7 @@
 ---
 title: Presentation Templates
 layout: default
+includeIn: organizing-committee
 ---
 Once working groups have formed, we send them off to work in break-out rooms to develop their ideas into projects. We ask them to come back every few hours and present their thinking to the full group and to get feedback. These instructions are - more or less, with customization depending on the challenge and the funder - what we give them to guide their presentations.
 

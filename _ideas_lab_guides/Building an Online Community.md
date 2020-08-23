@@ -1,8 +1,9 @@
 ---
 title: Building an Online Community
 layout: default
+includeIn: organizing-committee
 ---
-=== Collaboration Tools ===
+### Collaboration Tools 
 Over the last few years, we have found that many events can benefit from some form of collaborative technology. That are lots of systems to choose from:  [https://www.google.com/docs/about/ Google Docs] provides a great way for everyone to contribute to the development of initial ideas, and planning tools, such as [https://trello.com/ Trello], can really help teams to develop action plans.
 
 However, these tools tend to focus on specific stages of an event. Our experience has shown that it is also very useful to have an online location where everyone has access to information about the upcoming event, as well as easy ways to stay connected to the community once the event has completed. This is particularly important when an event has attracted participants from multiple institutions, and even different countries. For this reason, we often create dedicated groups on our [http://hubzero.org HubZero] system.

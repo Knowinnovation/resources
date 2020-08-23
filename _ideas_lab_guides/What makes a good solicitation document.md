@@ -1,6 +1,7 @@
 ---
 title: What makes a good solicitation document
 layout: default
+includeIn: organizing-committee
 ---
 ### Overview ###
 

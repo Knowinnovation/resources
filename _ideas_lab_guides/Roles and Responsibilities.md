@@ -3,7 +3,7 @@ title: Roles and Responsibilities
 layout: default
 includeIn: 
 - provocateurs 
-- organisers 
+- organizing-committee
 - mentors 
 - administrators
 ---

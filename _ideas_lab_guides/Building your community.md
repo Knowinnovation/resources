@@ -1,6 +1,7 @@
 ---
 title: Building your community
 layout: default
+includeIn: organizing-committee
 ---
 
 The single most important factor for the success of any event is ensuring that the right people are participating.  In the case of an innovation workshop, the right people are:

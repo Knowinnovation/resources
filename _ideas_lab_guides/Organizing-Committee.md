@@ -1,6 +1,7 @@
 ---
 title: Organizing-Committee
 layout: default
+includeAll: organizing-committee
 homePage: true
 ---
 
@@ -12,11 +13,21 @@ There is plenty to do to kick off the event and having people to help with the a
 
 These pages are designed to introduce you to the process and highlight the specific aspects of your role.
 
-* [[What makes a good solicitation document| What Makes a Good Solicitation Document]]
-* [[Building your community| Building Your Community]]
-* [[What makes a good question |What Makes a Good Question]]
-* [[Selecting participants |Selecting the Participants]]
-* [[Presentation templates| Presentation Templates]]
-* [[Proforma template |Proforma Template and What Makes a Great Proposal]]
-* [[Roles and responsibilities| Roles and Responsibilities Overview (one long column)]]
+<ul>
+{%- for each in site.ideas_lab_guides -%}
+
+{% for item in each.includeIn %}
+
+{% if item == {{page.includeAll}} then %}
+
+<li><a href="{{each.url}}">{{each.title}}</a></li>
+
+{% endif %}
+
+{% endfor %}
+
+{%- endfor -%}
+</ul>
+
+
 * [[Building an online community| Building an Online Community]]
