@@ -10,7 +10,7 @@ We have organized the resources into "pathways". Each pathway is designed to mee
 <ul>
 {%- for each in site.ideas_lab_guides -%}
 {% if each.homePage == true then %}
-<li><a href="{{each.url}}">{{each.url}}</a></li>
+<li><a href="{{each.url}}">{{each.title}}</a></li>
 {% endif %}
 {%- endfor -%}
 </ul>
