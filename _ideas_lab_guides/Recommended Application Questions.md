@@ -1,8 +1,12 @@
 ---
 title: Recommended Application Questions
 layout: default
+includeIn: selection
+language:
+- en-gb
+- en-us
 ---
-#### Typical biographical details ####
+#### Typical biographical details
 * Prefix
 * First name
 * Last name
@@ -11,11 +15,11 @@ layout: default
 * Institution
 * Mailing address
 
-#### Check for commitment ####
+#### Check for commitment
 * I am available <insert dates of the event> and can commit to attend all < duration> days of the event.
 * If you cannot commit to attend all days of the event, please explain:
 
-#### Key questions for assessing suitability ####
+#### Key questions for assessing suitability
 __Page 1__
 * Please provide a brief summary of your career highlights starting with job title and number of years since highest qualification. Please note that if you are selected as a participant, information provided in answer to this question will be made available to the other participants to facilitate networking at the event. (200 words)
 * (Optional) How would you like to see the field of (theme of the event) developing over the next 10 years?

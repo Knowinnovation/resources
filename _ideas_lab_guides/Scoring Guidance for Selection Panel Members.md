@@ -1,6 +1,10 @@
 ---
 title: Scoring Guidance for Selection Panel Members
 layout: default
+includeIn: selection
+language:
+- en-gb
+- en-us
 ---
 Suitability for an Ideas Workshop rests on both the science and the person behind the science being right: the ‘right’ individual is as important – often more so – as the ‘right’ science. The ideal Ideas Workshop participants are those who come with no pre-agenda other than the excitement of an ideas-play around the subject of the event, playing as equals without being precious about themselves, their own ideas, or expertise. They enjoy starting with a clean slate, exploring draft ideas that they delight in seeing developed into vastly enhanced and exciting, novel breakthroughs, all achieved in the cut and thrust of a collaborative setting.
 
@@ -14,12 +18,12 @@ Once you have reached a conclusion about an applicant, please score as follows (
 
 Finally, when thinking about your overall selections, please bear in mind that a diverse mix of the right kind of participants is important to boost the innovation richness and dynamic: ensure that the invited group is a good mix across early to senior careers*, gender, culture, type of institute, and life experience.
 __Six Questions__:
-# Summary of professional background
-# What expertise do you bring to meet the transdisciplinary challenges associated with this challenge?
-# What is your approach to working in teams?
-# How would you describe your ability to engage and work with non-experts?
-# How do you see yourself suited to this type of workshop?
-# What would you gain from participating in this type of workshop?
+1 Summary of professional background
+1 What expertise do you bring to meet the transdisciplinary challenges associated with this challenge?
+1 What is your approach to working in teams?
+1 How would you describe your ability to engage and work with non-experts?
+1 How do you see yourself suited to this type of workshop?
+1 What would you gain from participating in this type of workshop?
 
 '''Determining the Final Selections:'''
 The final participant list needs to comprise people who are enthusiastic about the possibility of interdisciplinary collaboration around the driving topic. Furthermore, you will require a good mixture of disciplines, career length (especially early-careers), gender, cultural background, and life experience, because this enriches the innovative quality, outputs, and outcomes of an Ideas Workshop. The purpose of this type of event is to create projects that will surprise and intrigue. Involving a wide range of people in the conversations is the most important element in achieving this outcome.
@@ -28,4 +32,4 @@ The final participant list needs to comprise people who are enthusiastic about t
 
 Thank you for your participation.
 
-''The text above is based upon the advice offered by Dr. Bharat Maldé. Bharat is an Organizational Psychologist who has been involved in assessing potential participants since the inception of the [http://knowinnovation.com/expertise/facilitating/ Sandpit/Ideas Lab] in 2003.''
+''The text above is based upon the advice offered by Dr. Bharat Maldé. Bharat is an Organizational Psychologist who has been involved in assessing potential participants since the inception of the [Sandpit/Ideas Lab](http://knowinnovation.com/expertise/facilitating)

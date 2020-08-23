@@ -10,6 +10,7 @@ includeIn:
 - mentor 
 - administrators
 - director
+- selection
 ---
 # An Overview of the Workshop Process and Roles 
 
