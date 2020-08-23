@@ -1,6 +1,10 @@
 ---
 title: Optimal Venue Guidelines
 layout: default
+includeIn: administrator
+language:
+- en-gb
+- en-us
 ---
 These recommendations are offered on the basis of our extensive experience in running innovation workshops. However, the specific requirements for each event will be defined in conjunction with your event”s project manager, so please treat these recommendations as broad guidelines. For a visual example of an ideal room layout, please see [[File(Ideal_Room_Layout.pdf)]].
 ### Meeting Rooms

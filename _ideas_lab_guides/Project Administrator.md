@@ -1,5 +1,11 @@
 ---
 title: Project Administrator
+layout: default
+includeAll: administrator
+homePage: True
+Language:
+- en-gb
+- en-us
 ---
 
 Being the Project Administrator of an event should be a great experience. When an event runs smoothly at an ideal venue, everyone is able to focus on novel science and making new connections. The Project Administrator is key in making that happen.

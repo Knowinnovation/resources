@@ -1,8 +1,11 @@
 ---
-title: Organizing-Committee
+title: Organizing Committee
 layout: default
 includeAll: organizing-committee
 homePage: true
+language:
+- en-gb
+- en-us
 ---
 
 The Organizing Committee is usually made up of 2-4 individuals who initiate and oversee the execution of a workshop. Organizers usually include representatives from funding bodies and partners associated with event. Their main objectives are to understand the other roles within the workshop - specifically the Mentors and Director -  and recruit those individuals, as well as to set the question or overarching challenge of workshop.
@@ -28,6 +31,3 @@ These pages are designed to introduce you to the process and highlight the speci
 
 {%- endfor -%}
 </ul>
-
-
-* [[Building an online community| Building an Online Community]]
