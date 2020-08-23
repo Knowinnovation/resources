@@ -25,5 +25,3 @@ These pages are designed to introduce you to the process and highlight the speci
 
 {%- endfor -%}
 </ul>
-
-* [RolesAndResponsibilities Roles and Responsibilities Overview (one long column)]
