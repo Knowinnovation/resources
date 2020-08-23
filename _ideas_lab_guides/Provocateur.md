@@ -21,8 +21,8 @@ These pages are designed to introduce you to the process and highlight the speci
 
 * [{{each.title}}]({{each.url}})
 
-{% endfor %}
-
 {% endif %}
+
+{% endfor %}
 
 {%- endfor -%}
