@@ -1,10 +1,13 @@
 ---
 title: Roles and Responsibilities
 layout: default
+language:
+- en-gb
+- en-us
 includeIn: 
 - provocateurs 
 - organizing-committee
-- mentors 
+- mentor 
 - administrators
 - director
 ---
