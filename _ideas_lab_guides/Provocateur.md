@@ -15,9 +15,9 @@ These pages are designed to introduce you to the process and highlight the speci
 
 {%- for each in site.ideas_lab_guides -%}
 
-{% for item in each.includeIn %}
+{% for item in each %}
 
-{% if item == "provocateurs" then %}
+{% if item.includeIn == "provocateurs" then %}
 
 * [{{each.title}}]({{each.url}})
 
