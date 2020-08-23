@@ -12,11 +12,16 @@ Thank you for agreeing to be a Provocateur at the upcoming workshop! Bringing pe
 * Inspiring new viewpoints.
 
 These pages are designed to introduce you to the process and highlight the specific aspects of your role.
+
 {%- for each in site.ideas_lab_guides -%}
 
-{% if each.includeIn == "provocateurs" then %}
+{% for item in each.includeIn %}
+
+{% if item == "provocateurs" then %}
 
 * [{{each.title}}]({{each.url}})
+
+{% endfor %}
 
 {% endif %}
 
