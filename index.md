@@ -8,8 +8,6 @@ Here you will find all of the information you need to run a workshop with Knowin
 
 We have organized the resources into "pathways". Each pathway is designed to meet the needs of a particular role in the event. You are most welcome to explore all the documents, but if you are short of time, then please start with the pathway that seems most relevant for you.
 
-temp
-
 {%- for each in site.ideas_lab_guides -%}
 {% if each.homePage == true then %}
 * [{{each.title}}]({{each.url}})
