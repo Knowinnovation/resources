@@ -1,6 +1,9 @@
 ---
 title: The Creative Thinking Course
 layout: default
+language:
+- en-gb
+- en-us
 ---
 Our workshops are based on a deliberate creative thinking process. We have found it useful to give participants a brief introduction to the process, before they attend a workshop. In order to make this introduction as simple as possible, we created a small online course. The course comprises a series of short videos (5 mins each), that cover two main topics:
 * The basics of creative behaviour, i.e. what actions help people to both develop new ideas, and help others to do the same?

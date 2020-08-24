@@ -1,7 +1,7 @@
 ---
 title: Organizing Committee
 layout: default
-includeAll: organizing-committee
+includeAll: organizer
 homePage: true
 language:
 - en-gb

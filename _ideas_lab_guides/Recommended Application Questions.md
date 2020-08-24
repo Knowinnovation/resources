@@ -20,12 +20,12 @@ language:
 * If you cannot commit to attend all days of the event, please explain:
 
 #### Key questions for assessing suitability
-__Page 1__
+**Page 1**
 * Please provide a brief summary of your career highlights starting with job title and number of years since highest qualification. Please note that if you are selected as a participant, information provided in answer to this question will be made available to the other participants to facilitate networking at the event. (200 words)
 * (Optional) How would you like to see the field of (theme of the event) developing over the next 10 years?
 * How do you see your expertise and interests contributing to realizing the goal of this workshop? (200 words)
 
-__Page 2__
+**Page 2**
 
 Please spend some time considering your answers to the following questions. Your responses (no more than 100 words each) will help us assess your suitability (unrelated to your research track record) for the innovative and collaborative setting of this event. 
 * What is your approach to teamwork?

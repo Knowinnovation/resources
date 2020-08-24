@@ -1,6 +1,11 @@
 ---
 title: Letter Inviting People to the RCT Randomised Coffee Trials
 layout: default
+includeIn: 
+- administrator
+language:
+- en-gb
+- en-us
 ---
 Hello,
 

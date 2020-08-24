@@ -1,6 +1,10 @@
 ---
 title: Acceptance Letter
 layout: default
+includeIn: administrator
+language:
+- en-gb
+- en-us
 ---
 Subject: RSVP for < event name > by < RSVP date >
 

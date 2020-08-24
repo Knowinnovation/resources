@@ -1,11 +1,17 @@
 ---
 title: Presentation Templates
 layout: default
-includeIn: organizing-committee
+includeIn: 
+- organizer
+- director
+- mentor
+language:
+- en-gb
+- en-us
 ---
 Once working groups have formed, we send them off to work in break-out rooms to develop their ideas into projects. We ask them to come back every few hours and present their thinking to the full group and to get feedback. These instructions are - more or less, with customization depending on the challenge and the funder - what we give them to guide their presentations.
 
-__Presentation 1: Day 3__
+**Presentation 1: Day 3**
  * Working title
  * Summary of the problem
  *  Who’s in your group?
@@ -13,7 +19,7 @@ __Presentation 1: Day 3__
  * Gaps to fill, resources you need
  * 5 minutes max
 
-__Presentation 2: Day 4 AM__
+**Presentation 2: Day 4 AM**
  * Working title
  * Summary of the problem (extremely brief, just for context)
  * New thinking since last presentation
@@ -24,7 +30,7 @@ __Presentation 2: Day 4 AM__
  * What skills/expertise are you missing/seeking?
  * 7 minutes max
 
-__Presentation 3: Day 4 PM__
+**Presentation 3: Day 4 PM**
  * Working title
  * Summary
   * of the problem (brief, just for context)
@@ -37,7 +43,7 @@ __Presentation 3: Day 4 PM__
  * Again, who's in your group, and why? What's the contribution of each member?
  * 5 minutes max
 
-__Final Presentation: Day 5__
+**Final Presentation: Day 5**
  * Proposal title
  * Summary
   * of the problem and the idea

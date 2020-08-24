@@ -1,6 +1,11 @@
 ---
 title: Application Received Letter
 layout: default
+includeIn: 
+- administrator
+language:
+- en-gb
+- en-us
 ---
 Subject: < event title > Decisions by < date >
 

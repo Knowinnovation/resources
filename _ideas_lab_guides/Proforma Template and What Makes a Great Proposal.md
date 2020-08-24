@@ -1,11 +1,14 @@
 ---
 title: Proforma Template and What Makes a Great Proposal
 layout: default
-includeIn: organizing-committee
+includeIn: 
+- organizer
+- mentor
+- director
 ---
 Before beginning the process of designing the agenda, it’s important to understand the final output that participants will be asked to produce at the workshop. This usually consists of a short presentation and 2-page summary of their project proposals (see template below). During  the agenda designing process, it is helpful to have the Organizing Committee review and customize this template. The Organizing Committee should also identify the key criteria that will be used to assess the quality of each section of the template. Below is a sample of a template that may be provided to participants.
 
-__Proforma: < event title >__
+**Proforma: < event title >**
 
  * Title of project
  * Investigators
@@ -38,11 +41,11 @@ __Proforma: < event title >__
  * Timeline
   * Define a 3 year timeline for your project.
 
-''Remember to sell your ideas - why should the Funders be excited about this?''
-[[BR]]''Clearly describe the what, why, how and the so what.''
-[[BR]]''Please make it creative, lively and interesting.''
+**Remember to sell your ideas - why should the Funders be excited about this?**
+- Clearly describe the what, why, how and the so what.
+- Please make it creative, lively and interesting.
 
-=== What makes a Great Proposal? ===
+### What makes a Great Proposal?
 
 The definition of "success" varies for each event. In some cases the primary criterion is simply to get disparate communities to engage with each other. Other events focus on encouraging interdisciplinary collaborations between early stage researchers. In this case, the main role of the scientific question is to act as a raison d'etre, or primary reason, to foster new partnerships, with hope of important outcomes at some later date.
 

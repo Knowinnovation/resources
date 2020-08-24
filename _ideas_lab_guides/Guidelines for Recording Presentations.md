@@ -1,6 +1,13 @@
 ---
 title: Guidelines for Recording Presentations
 layout: default
+includeIn: 
+- provocateur
+- stakeholder
+- administrator
+language:
+- en-gb
+- en-us
 ---
 Hello,
 
@@ -18,7 +25,7 @@ Default concurrent session design:
 
 If you feel your session is likely to diverge from this basic structure, please let me know and we can arrange a time to discuss the options.
 
-'''Recording your presentation'''
+**Recording your presentation**
 
 Although you are welcome to record a ‘straight to smartphone camera’ presentation without slides, we expect most presenters will want to record their slides with a voice over. 
  * In case you haven’t used this feature before, Microsoft provides a good walk through for PowerPoint on this webpage [support.office.com/en-us/article/Record-a-slide-show-with-narration-and-slide-timings-0B9502C6-5F6C-40AE-B1E7-E47D8741161C#OfficeVersion=Office_365](https://support.office.com/en-us/article/Record-a-slide-show-with-narration-and-slide-timings-0B9502C6-5F6C-40AE-B1E7-E47D8741161C#OfficeVersion=Office_365). 
@@ -29,7 +36,7 @@ Once you have recorded your presentation, please:
  * Save it with a filename that includes your name, e.g. “session title your name.mp4”
  * Upload the presentation to our server using this link: 
 
-""Register on the website""
+**Register on the website**
 
 We have set up a new website to manage the virtual event, and we would like you to join the site as soon as possible.  
  *  register, please click on this link <<go code goes here>>   Please note that the site does NOT support IE11, or older. You will need to use a modern browser such as Chrome, Firefox, Safari or Edge.

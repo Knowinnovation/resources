@@ -1,6 +1,9 @@
 ---
 title: RSVP Confirmation Letter
 layout: default
+language:
+- en-gb
+- en-us
 ---
 Short option: 
 

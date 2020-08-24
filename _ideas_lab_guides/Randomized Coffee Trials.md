@@ -1,9 +1,16 @@
 ---
 title: Randomized Coffee Trials
 layout: default
-includeIn: participants
+includeIn: 
+- participants
+- mentors
+- director
+- organizer
+language:
+- en-gb
+- en-us
 ---
-A Randomized Coffee Trial (RCT) is a slightly tongue-in-cheek way of describing informal meetings between people, who don't usually get to spend time together. The idea originated at NESTA and has become popular around the world. The [http://www.nesta.org.uk/blog/institutionalising-serendipity-productive-coffee-breaks original version of the RCT] simply matched people, randomly, and invited them to meet, have coffee, and talk about whatever they found interesting.  Although this has proved to be very enjoyable, we have found that adding a little more structure to the event, can make the results even more useful.
+A Randomized Coffee Trial (RCT) is a slightly tongue-in-cheek way of describing informal meetings between people, who don't usually get to spend time together. The idea originated at NESTA and has become popular around the world. The [original version of the RCT](http://www.nesta.org.uk/blog/institutionalising-serendipity-productive-coffee-breaks) simply matched people, randomly, and invited them to meet, have coffee, and talk about whatever they found interesting.  Although this has proved to be very enjoyable, we have found that adding a little more structure to the event, can make the results even more useful.
 
 Here is what we are inviting you to do:
  # We are going to pair you up with someone from a different discipline

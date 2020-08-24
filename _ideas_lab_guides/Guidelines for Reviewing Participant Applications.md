@@ -1,8 +1,16 @@
 ---
 title: Guidelines for Reviewing Participant Applications
 layout: default
+includeIn: 
+- director
+- mentor
+- organizer
+- selection
+language:
+- en-gb
+- en-us
 ---
-The following text was written by the Organisational Psychologist, Dr. Bharat Malde. It is offered as guidelines for how the reviewers should approach the task of appraising each potential participant.
+The following text was written by the Organisational Psychologist, Dr. Bharat Malde. It is offered as a guideline for how the reviewers should approach the task of appraising each potential participant.
 
 SUMMARY: The 2-page Application should be used as the sole basis for review - without recourse to CVs, publication records, web search, candidate reputation or pre-knowledge. This simple ‘hand-bind’ will ensure a level playing field for all candidates and would also minimise bias - intended and unintended - contaminating the process. Departures from this simple rule should be kept to a minimum and undertaken only when considered as necessary and defensible.
 

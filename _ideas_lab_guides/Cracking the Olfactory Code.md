@@ -1,6 +1,13 @@
 ---
 title: Cracking the Olfactory Code
 layout: default
+includeIn: 
+- mentor
+- organizer
+- provocateur
+language:
+- en-gb
+- en-us
 ---
 [Cracking the Olfactory Code](http://nsf.gov/awardsearch/showAward?AWD_ID=1546749&HistoricalAwards=false) was held in 2015. Funded projects include:
 * [Analysis of the Mammalian Olfactory Code](http://nsf.gov/awardsearch/showAward?AWD_ID=1555950&HistoricalAwards=false)

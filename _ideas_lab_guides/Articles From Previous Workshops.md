@@ -1,18 +1,24 @@
 ---
 title: Articles From Previous Workshops
 layout: default
+includeIn: 
+- administrator
+- organizer
+- director
+- mentor
+language:
+- en-gb
+- en-us
 ---
-We know it can be complicated to hear about a process from the people who specialize in it. To give you a broader perspective on the workshops that we offer, we've included articles and websites from different perspectives: clients, mentors, participants, and major news broadcasters.
+To give you a broader perspective on the workshops that we offer, we've included articles, and websites, from different perspectives: clients, mentors, participants, and major news broadcasters.
 
 __Start here if time is limited:__
 
-<<<<<<< HEAD:_ideas_lab_guides/Articles From Previous Workshops.md
-* [What is an Ideas Lab](http://currents.plos.org/treeoflife/article/the-ideas-lab-concept-assembling-the-tree-of-life-and-avatol/ The Ideas Lab Concept, Assembling the Tree of Life, and AVAToL)
-* [What might emerge from an Ideas Lab: One story from Cracking the Olfactory Code](http://www.pbs.org/newshour/updates/what-a-smell-looks-like/ What a Smell Looks Like)
+* [What is an Ideas Lab - Published in PLoS Currents](http://currents.plos.org/treeoflife/article/the-ideas-lab-concept-assembling-the-tree-of-life-and-avatol/)
+* [What might emerge from an Ideas Lab: One story from Cracking the Olfactory Code](http://www.pbs.org/newshour/updates/what-a-smell-looks-like)
+
 =======
-* What is an Ideas Lab: A description from PLOS [] (http://currents.plos.org/treeoflife/article/the-ideas-lab-concept-assembling-the-tree-of-life-and-avatol/ The Ideas Lab Concept, Assembling the Tree of Life, and AVAToL)
-* What might emerge from an Ideas Lab: One story from Cracking the Olfactory Code [http://www.pbs.org/newshour/updates/what-a-smell-looks-like/ What a Smell Looks Like]
->>>>>>> 0fe71e3b91f0ce5d6f5356360ae1df14291368bc:Articles From Previous Workshops.md
+
 * Data Science Innovation Lab 2018: The Mathematical Challenges of Single Cell Dynamics [[File(DSIL_Book_Final.pdf, details="off")]] 
 * [https://inds.umbc.edu/files/2019/01/Ideaslab-Booklet_FINAL-1.pdf Assessment of the 2016 Origins Ideas Lab: A Fresh Approach to Generating Scientific Research ]
 * The AI Acceleration: Implications for the US Air Force of 2030 [https://hub.ki/files/MTRjZGIzZDFkMzI4NjdhNjg4ZDFjM2E4OGFiYzIyMDMxM2VkYWMzMTk3OThiODFkYTUwNTIwNTEwNTQwMzU1MjovdmFyL3d3dy9odWJraS9hcHAvc2l0ZS9jb2xsZWN0aW9ucy83MjQxL1VTQUYyMDMwRmluYWxSZXBvcnQucGRm/ Final Report]

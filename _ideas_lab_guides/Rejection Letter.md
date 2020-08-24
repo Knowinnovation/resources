@@ -1,6 +1,9 @@
 ---
 title: Rejection Letter
 layout: default
+language:
+- en-gb
+- en-us
 ---
 Subject: < event title > Application Decision
 

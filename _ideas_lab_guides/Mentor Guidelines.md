@@ -1,7 +1,9 @@
 ---
 title: Mentor Guidelines
 layout: default
-includeIn: mentor
+includeIn: 
+- mentor
+- organizer
 language:
 - en-gb
 - en-us
@@ -18,16 +20,16 @@ Characteristics that are helpful include:
 * Enthusiasm for the topic
 * An encouraging personali_y
 
-__Responsibilities before the workshop include__:
+**Responsibilities before the workshop include**:
 * Collaborating with the Organizing Team and Facilitators to help prepare for the event
 * Providing thought-provoking discussions and resources for the participants virtually, via an online group page
 
-__Responsibilities at the workshop__:
+**Responsibilities at the workshop**:
 * Getting to know the participants, and helping them connect with one another
 * To the degree possible, helping participants understand the state of the art of their respective fields
 * Providing constructive feedback on participants’ ideas
 
-__Responsibilities after the workshop (or on the last day)__:
+**Responsibilities after the workshop (or on the last day)**:
 * Reviewing the outputs of the workshop and providing recommendations to the funders as requested
 
 A more in-depth Mentor description can be found [here](https://knowinnovation.com/connect-and-catalyze/).

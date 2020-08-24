@@ -1,9 +1,15 @@
 ---
 title: What makes a good solicitation document
 layout: default
-includeIn: organizing-committee
+includeIn: 
+- organizer
+- director
+- mentor
+language:
+- en-gb
+- en-us
 ---
-### Overview ###
+### Overview
 
 In order to recruit a diverse range of participants it is necessary to develop a solicitation document that appeals to a broad community, whilst also highlighting why the problem is important. 
 
@@ -15,11 +21,11 @@ When thinking about your document, we have found it important to consider:
 * Does your document address why the current thinking/solutions are unsatisfactory? It can be helpful to explain just how big the gap is between current best practices and the desired future state.
 * Finally, please make sure that the solicitation doesn't actually define ''how'' the problem needs to be solved. Although it can be very tempting to offer this sort of guidance, it can also constrain participants' ideas, which is unhelpful at this stage.
 
-### Examples ###
+### Examples
 
-*[http://www.nsf.gov/pubs/2016/nsf16516/nsf16516.htm GEO Opportunities for Leadership in Diversity]
-*[https://bigdatau.ini.usc.edu/innovationlab2016 Interdisciplinary Approaches to Biomedical Data Science Challenges of Wearable and/or Ambient Sensors]
-*[https://astrobiology.nasa.gov/news/joint-nasa-nsf-ideas-lab-on-the-origins-of-life/ Origins of Life]
+* [GEO Opportunities for Leadership in Diversity](http://www.nsf.gov/pubs/2016/nsf16516/nsf16516.htm)
+* [Interdisciplinary Approaches to Biomedical Data Science Challenges of Wearable and/or Ambient Sensors](https://bigdatau.ini.usc.edu/innovationlab2016)
+* [Origins of Life](https://astrobiology.nasa.gov/news/joint-nasa-nsf-ideas-lab-on-the-origins-of-life/)
 
-### Recommended Application Questions ###
-We recommend that you include the following [[Recommended Application Questions | Recommended Application Questions]] as part of your application form.
+### Recommended Application Questions
+We recommend that you include the following [Recommended Application Questions](Recommended Application Questions) as part of your application form.

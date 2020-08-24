@@ -3,6 +3,9 @@ title: Provocateur
 layout: default
 includeAll: provocateurs
 homePage: true
+language:
+- en-gb
+- en-us
 ---
 
 Thank you for agreeing to be a Provocateur at the upcoming workshop! Bringing people together and asking them to talk with each other from the viewpoints of their different disciplines is the first step to getting new perspectives on a challenge. Adding Provocateurs, or speakers, to the mix helps to deepen the overall understanding of the challenge.  Although each event is different, the Provocateur's role usually includes:

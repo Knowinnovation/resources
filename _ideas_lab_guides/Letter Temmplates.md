@@ -17,16 +17,15 @@ Mentors
 
 Provocateurs
  - [Letter To Provocateurs](Letter to Provocateurs)
- - [Letter To Plus Ten Speakers](Ten Letter to +10 Speakers)
+ - [Letter To Plus Ten Speakers](Letter to Plus 10 Speakers)
 
 Selection Panel
+ - [Letter to Selection Panel](Letter to Selection Panel)
 
- - [LetterToSelectionPanel Letter to Selection Panel]
-Applicants and Participants[[br]]
- - [Letter:ApplicationReceivedDecisionComing Letter: Application Received, Decision Coming][[br]]
- - [Letter:Acceptance Acceptance Letter][[br]]
- - [LetterFoursight FourSight Invitation][[br]]
- - [Letter:Rejection Application Not Accepted Letter][[br]]
- - [Letter:Waitlist Waitlist Letter][[br]]
- - [Letter:RSVPYesConfirmation RSVP Confirmation: Will Attend][[br]]
- - [Letter:RSVPNoConfirmation RSVP Confirmation: Will Not Attend][[br]]
+ Applicants
+ - [Application Received](Application Received Letter)
+ - [Acceptance Letter](Acceptance Letter)
+ - [FourSight Invitation](Letter Foursight)
+ - [Rejection Letter](Rejection Letter)
+ - [Waitlist Letter](Waitlist Letter)
+ - [RSVP Confirmation: Will Attend](RSVP Confirmation Letter)

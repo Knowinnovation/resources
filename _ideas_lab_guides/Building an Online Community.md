@@ -1,7 +1,7 @@
 ---
 title: Building an Online Community
 layout: default
-includeIn: organizing-committee
+includeIn: organizer
 language: 
 - en-gb
 - en-us

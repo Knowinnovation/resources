@@ -1,6 +1,14 @@
 ---
 title: History of Knowinnovation Workshops
 layout: default
+includeIn: 
+- director
+- mentor
+- organizer
+- provocateur
+language:
+- en-gb
+- en-us
 ---
 # The Ideas Lab#
 
@@ -71,12 +79,11 @@ Getting to innovative research proposals is the primary objective, but there are
 ### Using Creative Problem Solving ###
 The Creative Problem Solving (CPS) process (on which Ideas Labs are based) has four broad stages:
 
-#__Clarification:__ gathering data, formulating problem statements
-#__Ideation:__ generating possibilities
-#__Development:__ refining ideas into workable solutions
-#__Action:__ creating project plans, and identifying obstacles
+# **Clarification:** gathering data, formulating problem statements
+# **Ideation:** generating possibilities
+# **Development:** refining ideas into workable solutions
+# **Action:** creating project plans, and identifying obstacles
 
 Any Ideas Lab will span all four stages, but there can be a significant difference in emphasis, which manifests itself in terms of where time is spent. For example, in 2009 we ran an Ideas Lab on Synthetic Biology. At the time, the field was relatively young, and even the definition of what’s involved in Synthetic Biology was still open for discussion. Not surprisingly, a significant amount of time was spent on understanding the problems that various researchers were exploring, and discussing possible ideas. Action plans were created, but they were not what some might consider highly detailed.
-
 
 Contrast that Ideas Lab with some recent events we have run on increasing diversity within higher education. The problem itself is far from solved. However, due to significant amounts of work in the area, there is a shared understanding of what the problems look like, and there are already some ideas that have been successfully implemented. In cases like these, the Ideas Lab becomes much more focused on understanding the under- lying barriers to successful implementation. Of course, once those barriers are surfaced, it is not unusual to find oneself back at the clarification stage, and looking for new ideas to overcome the barriers. But the point is that understanding the starting point of an event is critically important. This has an impact on the type of people you might invite, the design of the event, the amount of any funding that might be on offer, and even the definition of success.

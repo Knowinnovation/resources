@@ -1,6 +1,11 @@
 ---
 title: Letter Foursight
 layout: default
+includeIn: 
+- administrator
+language:
+- en-gb
+- en-us
 ---
 Hello
 We are looking forward to meeting you tomorrow at the Student Futures event, and as you know one of the things we will be doing is talking about problem solving styles, and how they can affect team collaboration.
