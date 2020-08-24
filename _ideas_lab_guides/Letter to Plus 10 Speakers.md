@@ -2,7 +2,6 @@
 title: Letter to Plus 10 Speakers
 layout: default
 includeIn: 
-- organizer
 - administrator
 language:
 - en-gb

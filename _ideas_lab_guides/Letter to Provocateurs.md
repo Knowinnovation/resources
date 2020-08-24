@@ -2,7 +2,6 @@
 title: Letter to Provocateurs
 layout: default
 includeIn: 
-- organizer
 - administrator
 language:
 - en-gb

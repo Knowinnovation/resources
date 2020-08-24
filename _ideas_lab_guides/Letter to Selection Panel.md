@@ -2,7 +2,6 @@
 title: Letter to Selection Panel
 layout: default
 includeIn: 
-- organizer
 - administrator
 language:
 - en-gb

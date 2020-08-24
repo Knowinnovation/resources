@@ -3,7 +3,6 @@ title: Letter to Director
 layout: default
 includeIn: 
 - administrator
-- organizer
 language:
 - en-gb
 - en-us
