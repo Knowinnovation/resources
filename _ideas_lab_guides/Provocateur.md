@@ -21,7 +21,7 @@ These pages are designed to introduce you to the process and highlight the speci
 
 {% for item in each.includeIn %}
 
-{% if item == "provocateurs" then %}
+{% if item == {{page.includeAll}} then %}
 
 <li><a href="{{each.url}}">{{each.title}}</a></li>
 
