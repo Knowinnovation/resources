@@ -2,6 +2,7 @@
 title: Director
 layout: default
 homePage: true
+includeAll: director
 includeIn: 
 - mentor
 - organizer
