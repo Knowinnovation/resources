@@ -1,5 +1,5 @@
 ---
-title: Examples
+title: Examples of projects that were created at previous events.
 layout: default
 includeAll: examples
 includeIn:
