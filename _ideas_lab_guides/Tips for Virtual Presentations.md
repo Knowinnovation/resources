@@ -2,10 +2,7 @@
 title: Tips for Virtual Presentations
 layout: default
 includeIn:
-- director
-- provocateur
-- mentor
-- director
+- facilitator
 
 language:
 - en-gb

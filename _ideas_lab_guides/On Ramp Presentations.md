@@ -2,9 +2,7 @@
 title: On Ramp Presentations
 layout: default
 includeIn: 
-- organizer
-- administrator
-- provocateur
+- facilitator
 language:
 - en-gb
 - en-us

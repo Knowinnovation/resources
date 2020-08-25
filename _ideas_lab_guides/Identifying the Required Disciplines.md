@@ -5,7 +5,6 @@ includeIn:
 - director
 - mentor
 - organizer
-- provocateur
 language:
 - en-gb
 - en-us

@@ -3,9 +3,7 @@ title: Guidance for the Call to Action Presenters
 layout: default
 includeIn: 
 - director
-- mentor
 - organizer
-- provocateur
 language:
 - en-gb
 - en-us

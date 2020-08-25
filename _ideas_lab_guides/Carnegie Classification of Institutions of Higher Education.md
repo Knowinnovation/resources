@@ -2,9 +2,7 @@
 title: Carnegie Classification of Institutions of Higher Education
 layout: default
 includeIn: 
-- mentor
-- provocateur
-- stakeholder
+
 language:
 - en-gb
 - en-us

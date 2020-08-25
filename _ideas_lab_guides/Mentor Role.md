@@ -1,7 +1,10 @@
 ---
 title: Mentor Role
 layout: default
-includeIn: mentor
+includeIn:
+- director
+- organizer
+- administrator
 homePage: false
 language:
 - en-gb

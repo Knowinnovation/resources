@@ -2,10 +2,7 @@
 title: Improving Undergraduate STEM Education- Pathways into Geoscience (IUSE- GEOPATHS)
 layout: default
 includeIn: 
-- director
-- mentor
-- organizer
-- provocateur
+- example
 language:
 - en-gb
 - en-us

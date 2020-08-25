@@ -2,11 +2,7 @@
 title: Generating Scenarios
 layout: default
 includeIn: 
-- director
-- participants
-- mentor
-- organizer
-- provocateur
+- facilitator
 language:
 - en-gb
 - en-us

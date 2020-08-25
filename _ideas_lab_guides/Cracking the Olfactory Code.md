@@ -2,9 +2,7 @@
 title: Cracking the Olfactory Code
 layout: default
 includeIn: 
-- mentor
-- organizer
-- provocateur
+- examples
 language:
 - en-gb
 - en-us

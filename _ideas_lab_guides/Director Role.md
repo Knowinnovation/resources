@@ -2,10 +2,8 @@
 title: Director Role
 layout: default
 includeIn:
-- director
 - mentor
 - organizer
-- provocateur
 language:
 - en-gb
 - en-us

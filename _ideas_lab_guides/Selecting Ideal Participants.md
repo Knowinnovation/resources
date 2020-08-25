@@ -5,6 +5,7 @@ includeIn:
 - organizer
 - director
 - mentor
+- selection
 language:
 - en-gb
 - en-us

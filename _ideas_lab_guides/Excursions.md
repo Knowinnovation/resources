@@ -2,10 +2,7 @@
 title: Excursions
 layout: default
 includeIn: 
-- director
-- mentor
-- organizer
-- administrator
+- facilitator
 language:
 - en-gb
 - en-us

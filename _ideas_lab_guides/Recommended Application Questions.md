@@ -1,7 +1,10 @@
 ---
 title: Recommended Application Questions
 layout: default
-includeIn: selection
+includeIn: 
+- selection
+- organizer
+- director
 language:
 - en-gb
 - en-us

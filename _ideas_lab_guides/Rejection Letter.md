@@ -1,6 +1,7 @@
 ---
 title: Rejection Letter
 layout: default
+includeIn: administrator
 language:
 - en-gb
 - en-us

@@ -1,9 +1,7 @@
 title: What is a Sandpit
 layout: default
 includeIn: 
-- organizer
-- director
-- mentor
+
 language:
 - en-gb
 ---

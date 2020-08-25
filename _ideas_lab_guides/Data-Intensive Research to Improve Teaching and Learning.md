@@ -2,9 +2,7 @@
 title: Data-Intensive Research to Improve Teaching and Learning
 layout: default
 includeIn: 
-- mentor
-- organizer
-- provocateur
+- examples
 language:
 - en-gb
 - en-us

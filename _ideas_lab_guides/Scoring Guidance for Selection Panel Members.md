@@ -1,7 +1,11 @@
 ---
 title: Scoring Guidance for Selection Panel Members
 layout: default
-includeIn: selection
+includeIn: 
+- selection
+- organizer
+- director
+- mentor
 language:
 - en-gb
 - en-us

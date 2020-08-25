@@ -2,12 +2,9 @@
 title: Attending a Zoom meeting
 layout: default
 includeIn: 
-- mentor
-- organizer
-- provocateur
-- participant
 - administrator
 - stakeholder
+- provocateur
 language:
 - en-gb
 - en-us

@@ -2,9 +2,7 @@
 title: Provocation
 layout: default
 includeIn:
-- organizer
-- director
-- mentor
+- facilitator
 language:
 - en-gb
 - en-us

@@ -2,10 +2,7 @@
 title: Randomized Coffee Trials
 layout: default
 includeIn: 
-- participants
-- mentors
-- director
-- organizer
+- administrator
 language:
 - en-gb
 - en-us

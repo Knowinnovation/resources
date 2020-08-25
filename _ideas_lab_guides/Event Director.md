@@ -13,6 +13,7 @@ language:
 ---
 Thank you for agreeing to take on the role of the Director at the upcoming workshop! Having a Director at an event gives participants a colleague to look to for guidance and perspective, who is also an expert in a relevant field. Although each event is different, the Director’s role usually includes:
 * Acting as the leader of the event.
+* Working with the [mentors](Mentor Role) to provide guidance on the output
 * Guiding the process from a scientific content perspective.
 * Setting the stage with a Call to Action, clarifying the vision up front, and steering the event to stay aligned with that vision over the course of the event. 
 
