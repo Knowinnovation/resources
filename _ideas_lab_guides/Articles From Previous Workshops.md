@@ -2,7 +2,6 @@
 title: Articles From Previous Workshops
 layout: default
 includeIn: 
-- administrator
 - organizer
 - director
 - mentor

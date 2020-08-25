@@ -3,7 +3,6 @@ title: Agenda for Mentor Premeeting
 layout: default
 includeIn: 
 - administrator
-- organizer
 language:
 - en-gb
 - en-us
