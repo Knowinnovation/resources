@@ -1,6 +1,8 @@
 ---
 title: Letter to Provocateurs
 layout: default
+includeIn: 
+- letters
 language:
 - en-gb
 - en-us

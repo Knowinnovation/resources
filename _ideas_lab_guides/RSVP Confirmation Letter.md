@@ -1,6 +1,8 @@
 ---
 title: RSVP Confirmation Letter
 layout: default
+includeIn: 
+- letters
 language:
 - en-gb
 - en-us

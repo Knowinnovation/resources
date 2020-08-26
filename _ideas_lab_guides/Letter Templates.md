@@ -1,6 +1,7 @@
 ---
 title: Letter Templates
 layout: default
+includeAll: letters
 includeIn: administrator
 language:
 - en-gb
@@ -29,3 +30,19 @@ Selection Panel
  - [Rejection Letter](Rejection Letter)
  - [Waitlist Letter](Waitlist Letter)
  - [RSVP Confirmation: Will Attend](RSVP Confirmation Letter)
+
+<ul>
+{%- for each in site.ideas_lab_guides -%}
+
+{% for item in each.includeIn %}
+
+{% if item == {{page.includeAll}} then %}
+
+<li><a href="{{each.url}}">{{each.title}}</a></li>
+
+{% endif %}
+
+{% endfor %}
+
+{%- endfor -%}
+</ul>

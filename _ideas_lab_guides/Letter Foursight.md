@@ -2,7 +2,7 @@
 title: Letter Foursight
 layout: default
 includeIn: 
-- facilitator
+- letters
 language:
 - en-gb
 - en-us

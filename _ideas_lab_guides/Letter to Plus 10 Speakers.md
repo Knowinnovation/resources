@@ -1,6 +1,8 @@
 ---
 title: Letter to Plus 10 Speakers
 layout: default
+includeIn: 
+- letters
 language:
 - en-gb
 - en-us

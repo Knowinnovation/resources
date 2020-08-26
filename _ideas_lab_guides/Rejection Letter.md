@@ -1,6 +1,8 @@
 ---
 title: Rejection Letter
 layout: default
+includeIn: 
+- letters
 language:
 - en-gb
 - en-us

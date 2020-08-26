@@ -1,6 +1,8 @@
 ---
 title: Letter to Selection Panel
 layout: default
+includeIn: 
+- letters
 language:
 - en-gb
 - en-us
