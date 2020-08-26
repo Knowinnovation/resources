@@ -6,7 +6,7 @@ language:
 - en-us
 includeIn: 
 - provocateurs 
-- organizing-committee
+- organizer
 - mentor 
 - administrators
 - director
