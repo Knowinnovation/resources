@@ -2,7 +2,8 @@
 title: Mentor
 layout: default
 includeAll: mentor
-homePage: true
+includeIn:
+- ideas-lab-guide
 language:
 - en-gb
 - en-us

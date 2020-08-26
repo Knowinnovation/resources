@@ -2,7 +2,9 @@
 title: Organizing Committee
 layout: default
 includeAll: organizer
-homePage: true
+includeIn:
+- ideas-lab-guide
+
 language:
 - en-gb
 - en-us

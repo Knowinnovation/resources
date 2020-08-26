@@ -5,7 +5,7 @@ homePage: true
 includeAll: 
 - director
 includeIn: 
-- ideas lab guide
+- ideas-lab-guide
 language:
 - en-gb
 - en-us

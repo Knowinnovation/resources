@@ -2,7 +2,8 @@
 title: Ideas Lab
 layout: default
 homePage: true
-includeAll: ideas lab guide
+includeAll: 
+- ideas-lab-guide
 includeIn: 
 language:
 - en-gb
