@@ -2,7 +2,7 @@
 title: Generating Scenarios
 layout: default
 includeIn: 
-- facilitator
+- participants
 language:
 - en-gb
 - en-us

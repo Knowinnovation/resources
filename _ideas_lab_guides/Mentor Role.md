@@ -2,6 +2,7 @@
 title: Mentor Role
 layout: default
 includeIn:
+- mentor
 homePage: false
 language:
 - en-gb

@@ -2,6 +2,7 @@
 title: Mentor Guidelines
 layout: default
 includeIn: 
+- mentor
 language:
 - en-gb
 - en-us

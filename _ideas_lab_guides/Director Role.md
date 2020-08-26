@@ -2,6 +2,8 @@
 title: Director Role
 layout: default
 includeIn:
+- director
+- organizer
 language:
 - en-gb
 - en-us

@@ -2,6 +2,7 @@
 title: Recommended Application Questions
 layout: default
 includeIn: 
+- selection
 language:
 - en-gb
 - en-us

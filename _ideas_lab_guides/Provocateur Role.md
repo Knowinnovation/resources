@@ -2,6 +2,7 @@
 title: Provocateur Role
 layout: default
 includeIn: 
+- provocateur
 language:
 - en-gb
 - en-us
