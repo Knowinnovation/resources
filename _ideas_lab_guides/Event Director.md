@@ -2,8 +2,10 @@
 title: Director
 layout: default
 homePage: true
-includeAll: director
+includeAll: 
+- director
 includeIn: 
+- ideas lab guide
 language:
 - en-gb
 - en-us
