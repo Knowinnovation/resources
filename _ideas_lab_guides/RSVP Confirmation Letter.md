@@ -1,7 +1,6 @@
 ---
 title: RSVP Confirmation Letter
 layout: default
-includeIn: administrator
 language:
 - en-gb
 - en-us

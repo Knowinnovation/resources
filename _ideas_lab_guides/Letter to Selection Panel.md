@@ -1,8 +1,6 @@
 ---
 title: Letter to Selection Panel
 layout: default
-includeIn: 
-- administrator
 language:
 - en-gb
 - en-us

@@ -1,8 +1,6 @@
 ---
 title: Letter to Director
 layout: default
-includeIn: 
-- administrator
 language:
 - en-gb
 - en-us

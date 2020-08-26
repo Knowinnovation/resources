@@ -1,7 +1,6 @@
 ---
 title: Waitlist Letter
 layout: default
-includeIn: administrator
 language:
 - en-gb
 - en-us

@@ -3,7 +3,6 @@ title: Letter Foursight
 layout: default
 includeIn: 
 - facilitator
-- administrator
 language:
 - en-gb
 - en-us

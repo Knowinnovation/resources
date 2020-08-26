@@ -1,8 +1,6 @@
 ---
 title: Randomized Coffee Trials
 layout: default
-includeIn: 
-- administrator
 language:
 - en-gb
 - en-us
