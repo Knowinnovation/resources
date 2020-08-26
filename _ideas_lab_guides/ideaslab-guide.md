@@ -15,7 +15,7 @@ This guide is designed to provide you with much of the information you need to r
 We have organized the resources into "pathways". Each pathway is designed to meet the needs of a particular role in the event. You are most welcome to explore all the documents, but if you are short of time, then please start with the pathway that seems most relevant for you.
 <ul>
 {%- for each in site.ideas_lab_guides -%}
-{% if each.includeIn == ideas lab then %}
+{% if each.includeIn == {{page.includeAll}} then %}
 <li><a href="{{each.url}}">{{each.title}}</a></li>
 {% endif %}
 {%- endfor -%}
