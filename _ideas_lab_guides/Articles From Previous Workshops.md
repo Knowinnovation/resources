@@ -2,9 +2,7 @@
 title: Articles From Previous Workshops
 layout: default
 includeIn: 
-- organizer
-- director
-- mentor
+- examples
 language:
 - en-gb
 - en-us

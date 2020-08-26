@@ -2,9 +2,6 @@
 title: Mentor Guidelines
 layout: default
 includeIn: 
-- mentor
-- organizer
-- director
 language:
 - en-gb
 - en-us

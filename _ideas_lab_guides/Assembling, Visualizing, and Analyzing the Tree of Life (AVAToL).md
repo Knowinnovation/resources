@@ -2,9 +2,7 @@
 title: Assembling, Visualizing, and Analyzing the Tree of Life (AVAToL)
 layout: default
 includeIn: 
-- mentor
-- organizer
-- provocateur
+- examples
 language:
 - en-gb
 - en-us

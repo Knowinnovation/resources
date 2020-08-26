@@ -2,8 +2,6 @@
 title: Director Role
 layout: default
 includeIn:
-- mentor
-- organizer
 language:
 - en-gb
 - en-us

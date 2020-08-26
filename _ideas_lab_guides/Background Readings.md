@@ -2,10 +2,6 @@
 title: Background Readings
 layout: default
 includeIn: 
-- mentor
-- organizer
-- provocateur
-- administrator
 language:
 - en-gb
 - en-us

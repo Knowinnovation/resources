@@ -2,9 +2,6 @@
 title: Provocateur Role
 layout: default
 includeIn: 
-- organizer
-- mentor
-- director
 language:
 - en-gb
 - en-us

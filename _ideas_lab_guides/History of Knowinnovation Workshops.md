@@ -2,10 +2,6 @@
 title: History of Knowinnovation Workshops
 layout: default
 includeIn: 
-- director
-- mentor
-- organizer
-- provocateur
 language:
 - en-gb
 - en-us

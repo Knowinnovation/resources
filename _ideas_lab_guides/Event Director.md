@@ -4,9 +4,6 @@ layout: default
 homePage: true
 includeAll: director
 includeIn: 
-- mentor
-- organizer
-- provocateur
 language:
 - en-gb
 - en-us

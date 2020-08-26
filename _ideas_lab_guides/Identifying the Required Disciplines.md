@@ -2,9 +2,6 @@
 title: Identifying the Required Disciplines
 layout: default
 includeIn: 
-- director
-- mentor
-- organizer
 language:
 - en-gb
 - en-us

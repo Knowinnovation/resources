@@ -2,8 +2,6 @@
 title: Guidance for the Call to Action Presenters
 layout: default
 includeIn: 
-- director
-- organizer
 language:
 - en-gb
 - en-us

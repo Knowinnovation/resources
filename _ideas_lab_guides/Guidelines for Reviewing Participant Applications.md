@@ -2,10 +2,6 @@
 title: Guidelines for Reviewing Participant Applications
 layout: default
 includeIn: 
-- director
-- mentor
-- organizer
-- selection
 language:
 - en-gb
 - en-us

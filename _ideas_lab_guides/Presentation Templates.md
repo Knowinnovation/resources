@@ -2,9 +2,6 @@
 title: Presentation Templates
 layout: default
 includeIn: 
-- organizer
-- director
-- mentor
 language:
 - en-gb
 - en-us

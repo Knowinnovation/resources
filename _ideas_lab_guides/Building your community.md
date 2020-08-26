@@ -2,6 +2,7 @@
 title: Building your community
 layout: default
 includeIn: 
+- director
 - mentor
 - organizer
 language:

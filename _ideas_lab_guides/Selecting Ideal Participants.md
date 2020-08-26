@@ -2,10 +2,9 @@
 title: Selecting Ideal Participants
 layout: default
 includeIn: 
+- selection
 - organizer
 - director
-- mentor
-- selection
 language:
 - en-gb
 - en-us
