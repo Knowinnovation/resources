@@ -25,8 +25,8 @@ These recommendations are offered on the basis of our extensive experience in ru
  * A good sound system that will connect with a computer or an iPad
  * Two wireless microphones
  * 2-6 sturdy flip-chart stands - we define "sturdy" as "if you threw it at someone it would probably put them in hospital, rather than just make them laugh at you". Just to be crystal clear, we have included two pictures. One shows the type of easel, and the other is the one to avoid.
-![Good Easel](images/1491465891_1271007.jpg)
-![Bad Easel](images/20191003_120610.jpg)
+![Good Easel](../images/1491465891_1271007.jpg)
+![Bad Easel](../images/20191003_120610.jpg)
  * At least 2 pads of flip-chart paper per stand: 3M brand Post-it styled is preferred
 ### Catering 
  * Drinking water, plenty of it, should be abundantly available during the session
