@@ -3,7 +3,7 @@ title: Director
 layout: default
 includeAll: 
 - director
-includeIn: 
+includeIn:
 - ideas-lab-guide
 - sandpit
 mode:

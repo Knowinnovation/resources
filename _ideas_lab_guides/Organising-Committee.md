@@ -1,9 +1,9 @@
 ---
-title: Organizing Committee
+title: Organising Committee
 layout: default
 includeAll: organizer
 includeIn:
-- ideas-lab-guide
+- sandpit-guide
 mode:
 - f2f
 - virtual
