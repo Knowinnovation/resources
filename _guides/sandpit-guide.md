@@ -1,19 +1,18 @@
 ---
-title: Ideas Lab
+title: Sandpit
 layout: default
 homePage: true
 includeAll: 
-- ideas-lab-guide
+- sandpit-guide
 includeIn: 
 language:
 - en-gb
-- en-us
 ---
-## Welcome to the Ideas Lab Guide
+## Welcome to the Sandpit Guide
 
-This guide is designed to provide you with much of the information you need to run an Ideas Lab - including the [History of Knowinnovation Workshops](ideas_lab_guides/History of Knowinnovation Workshops), [Articles From Previous Workshops](ideas_lab_guides/Articles From Previous Workshops), and [NSF-funded Ideas Lab policies](https://www.nsf.gov/pubs/policydocs/pappguide/nsf16001/nsf16_1.pdf#page#54). 
+This guide is designed to provide you with much of the information you need to run a Sandpit - including the [History of Knowinnovation Workshops](ideas_lab_guides/History of Knowinnovation Workshops), and [Articles From Previous Workshops](ideas_lab_guides/Articles From Previous Workshops) 
 
-We have organized the resources into "pathways". Each pathway is designed to meet the needs of a particular role in the event. If you are not sure about your role, it is probably best to start with the Organizing Committee pathway.
+We have organized the resources into "pathways". Each pathway is designed to meet the needs of a particular role in the event. If you are not sure about your role, it is probably best to start with the Organising Committee pathway.
 <ul>
 {%- for each in site.ideas_lab_guides -%}
 {% if each.includeIn == {{page.includeAll}} then %}

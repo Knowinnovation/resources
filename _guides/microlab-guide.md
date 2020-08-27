@@ -1,9 +1,9 @@
 ---
-title: Sandpit
+title: Microlab
 layout: default
 homePage: true
 includeAll: 
-- microlab
+- microlab-guide
 includeIn: 
 language:
 - en-gb
