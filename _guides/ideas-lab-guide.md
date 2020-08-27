@@ -19,11 +19,11 @@ We have organized the resources into "pathways". Each pathway is designed to mee
 
 {% for item in each.includeIn %}
 
-{% if item == {{page.includeAll}} then %}
+
 
 <li><a href="{{each.url}}">{{each.title}}</a></li>
 
-{% endif %}
+
 
 {% endfor %}
 
