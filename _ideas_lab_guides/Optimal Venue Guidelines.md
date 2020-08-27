@@ -2,11 +2,14 @@
 title: Optimal Venue Guidelines
 layout: default
 includeIn: administrator
+mode:
+- f2f
+- virtual
 language:
 - en-gb
 - en-us
 ---
-These recommendations are offered on the basis of our extensive experience in running innovation workshops. However, the specific requirements for each event will be defined in conjunction with your event”s project manager, so please treat these recommendations as broad guidelines. For a visual example of an ideal room layout, please see [[File(Ideal_Room_Layout.pdf)]].
+These recommendations are offered on the basis of our experience in running innovation workshops. However, the specific requirements for each event will be defined in conjunction with your event's project manager, so please treat these recommendations as broad guidelines. For a visual example of an ideal room layout, please see [[File(Ideal_Room_Layout.pdf)]].
 ### Meeting Rooms
  * A large main meeting room space with plenty of room to move around. A good rule of thumb: it should be twice the size necessary to seat everyone at small round tables. For instance, you need 1800-2200 ft^2^ (170-205 m^2^) for a workshop of 25-30 participants.
  * Carpeting on the floor to absorb sound

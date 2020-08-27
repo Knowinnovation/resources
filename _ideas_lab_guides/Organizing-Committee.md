@@ -4,9 +4,10 @@ layout: default
 includeAll: organizer
 includeIn:
 - ideas-lab-guide
-
+mode:
+- f2f
+- virtual
 language:
-- en-gb
 - en-us
 ---
 
