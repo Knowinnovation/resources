@@ -2,6 +2,7 @@
 title: Acceptance Letter
 layout: default
 includeIn: administrator
+mode: f2f
 language:
 - en-gb
 - en-us

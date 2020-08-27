@@ -2,6 +2,8 @@
 title: Logistics Equipment and Supplies
 layout: default
 includeIn: administrator
+mode:
+- f2f
 language:
 - en-gb
 - en-us

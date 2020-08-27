@@ -1,9 +1,12 @@
 ---
-title: History of Knowinnovation Workshops
+title: The History of Ideas Labs
 layout: default
 includeIn: 
+- ideaslab-guide
+mode:
+- f2f
+- virtual
 language:
-- en-gb
 - en-us
 ---
 # The Ideas Lab#
@@ -52,13 +55,6 @@ It is literally that – a Jumpstart to enable the right people to come together
 Jumpstarts follow the same process as an Ideas Lab, except they run for a shorter time and participants don’t get as far in their thinking. They’ll generate potential ideas at the event, but the process of developing ideas into possible research projects must continue after the event, with groups working together on their own time to refine and add substance to their proposals.
 
 When time and resources are limited, the shorter program can certainly ignite new thinking and spur conversations that wouldn’t otherwise occur in typical day-to-day interaction. It’s a smaller spark for innovation, but a vibrant spark nonetheless. Ideas Labs and Jumpstarts are different in depth and detail, but in many ways the same steps must be taken to prepare for the event and to facilitate it. The guidelines laid out in this book can be used to prepare for an Ideas Lab or for a Jumpstart.
-
-### A Bespoke Workshop ###
-Incidentally, it may be that what you need is not an Ideas Lab. Sometimes funding organizations – or participants who’ve had a good experience at an event – will contact us to design a customized workshop to address a specific challenge that may not necessarily require research, but rather a white-paper or alignment around a strategy for an organization or a community.
-
-In this case, KI can design a workshop to based on the desired outcome and the amount of time that participants can be persuaded to attend a meeting. The creative problem solving methodology and the tools and techniques associated with it (and used in our Ideas Labs) can be appropriated for different challenges and deliverables. KI facilitators have worked in a number of domains, within and outside of the realm of science and academics, and can bring these perspectives to the agenda design and workshop delivery.
-
-However, much of the planning process remains the same, and in fact may require additional planning days to customize the event. The requirements for the venue and materials and supplies will be nearly identical. As with all our workshops, great care should be taken to invite or solicit participation from people who will contribute the most to producing the results that you hope to achieve.
 
 ## Who Cares? ##
 We’ve also recognized that the presence, or absence, of stakeholders can impact in the design of an Ideas Lab. For this reason, we sometimes use a fourth question: who cares?

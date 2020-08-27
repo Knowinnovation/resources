@@ -2,6 +2,9 @@
 title: Building an Online Community
 layout: default
 includeIn: organizer
+mode:
+- f2f
+- virtual
 language: 
 - en-gb
 - en-us

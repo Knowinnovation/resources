@@ -3,6 +3,9 @@ title: Articles From Previous Workshops
 layout: default
 includeIn: 
 - examples
+mode:
+- f2f
+- virtual
 language:
 - en-gb
 - en-us

@@ -3,12 +3,15 @@ title: Letter Foursight
 layout: default
 includeIn: 
 - letters
+mode:
+- f2f
+- virtual
 language:
 - en-gb
 - en-us
 ---
 Hello
-We are looking forward to meeting you tomorrow at the Student Futures event, and as you know one of the things we will be doing is talking about problem solving styles, and how they can affect team collaboration.
+We are looking forward to meeting you tomorrow at the <<event name>> event, and as you know one of the things we will be doing is talking about problem solving styles, and how they can affect team collaboration.
 In order to help everyone understand their own preferences we have found it helpful to use an instrument called FourSight. FourSight is a multi-question survey that shows where your preferences lie in the innovation process. We have used it in all our previous workshops, and the participants have found it to be really interesting.
 If you would like to take FourSight online, please click the link below. It takes about 15 minutes to complete. 
 However, just before your finger clicks the mouse button... People sometimes have concerns about psychometric instruments. They worry that the results might somehow be used to judge them. So, I would like to put those worries to rest:

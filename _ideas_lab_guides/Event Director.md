@@ -5,6 +5,10 @@ includeAll:
 - director
 includeIn: 
 - ideas-lab-guide
+- sandpit
+mode:
+- f2f
+- virtual
 language:
 - en-gb
 - en-us

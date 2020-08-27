@@ -3,6 +3,9 @@ title: Assembling, Visualizing, and Analyzing the Tree of Life (AVAToL)
 layout: default
 includeIn: 
 - examples
+mode:
+- f2f
+- virtual
 language:
 - en-gb
 - en-us

@@ -3,6 +3,9 @@ title: Mentor Guidelines
 layout: default
 includeIn: 
 - mentor
+mode:
+- f2f
+- virtual
 language:
 - en-gb
 - en-us

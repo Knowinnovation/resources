@@ -4,6 +4,9 @@ layout: default
 includeAll: mentor
 includeIn:
 - ideas-lab-guide
+mode:
+- f2f
+- virtual
 language:
 - en-gb
 - en-us

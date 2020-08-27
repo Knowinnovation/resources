@@ -3,6 +3,9 @@ title: Generating Scenarios
 layout: default
 includeIn: 
 - participants
+mode:
+- f2f
+- virtual
 language:
 - en-gb
 - en-us

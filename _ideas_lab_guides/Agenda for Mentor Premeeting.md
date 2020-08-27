@@ -3,6 +3,9 @@ title: Agenda for Mentor Premeeting
 layout: default
 includeIn: 
 - administrator
+mode:
+- f2f
+- virtual
 language:
 - en-gb
 - en-us

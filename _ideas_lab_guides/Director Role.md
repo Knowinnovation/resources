@@ -4,11 +4,14 @@ layout: default
 includeIn:
 - director
 - organizer
+mode:
+- f2f
+- virtual
 language:
-- en-gb
 - en-us
+- en-gb
 ---
-The Director acts as the leader of the event. S/he is appointed by the organizers, and serves to guide the process from a scientific content perspective. The Director sets the stage, clarifying the vision up front and steering the event to stay aligned with that vision over the course of the event.
+The Director acts as the leader of the event. S/he is appointed by the committee, and serves to guide the process from a scientific content perspective. The Director sets the stage, clarifying the vision up front and steering the event to stay aligned with that vision over the course of the event.
 
 The attributes of a good workshop Director include:
  * Intellectual standing

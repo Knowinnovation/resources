@@ -5,6 +5,9 @@ includeIn:
 - administrator
 - stakeholder
 - provocateur
+mode:
+- f2f
+- virtual
 language:
 - en-gb
 - en-us

@@ -3,6 +3,9 @@ title: Letter to Plus 10 Speakers
 layout: default
 includeIn: 
 - letters
+mode:
+- f2f
+- virtual
 language:
 - en-gb
 - en-us

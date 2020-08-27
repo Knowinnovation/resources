@@ -3,6 +3,9 @@ title: Mentor Role
 layout: default
 includeIn:
 - mentor
+mode:
+- f2f
+- virtual
 homePage: false
 language:
 - en-gb

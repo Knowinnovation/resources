@@ -3,6 +3,9 @@ title: Letter to Selection Panel
 layout: default
 includeIn: 
 - letters
+mode:
+- f2f
+- virtual
 language:
 - en-gb
 - en-us
@@ -11,7 +14,7 @@ Dear Colleagues,
 <p>
 Thank you for agreeing to be a reviewer for < event title >. Selecting the participants for this event is integral to the event's success. The application deadline is < date >. Shortly thereafter, you will be forwarded applications to review. Following the review period, the selection meeting will take place on < date >.  
 <p>
-You will score the applicants based their answers to the [SampleApplicationForm six key questions found here]. Using the following rubric, you will be asked to rate applicants for a blend of an innovative, transdisciplinary mindset; intellectual curiosity and flexibility; and the ability to play as equal, collegial, enthusiastic team-players.
+You will score the applicants based their answers to the [six key questions found here](SampleApplicationForm six key questions found here). Using the following rubric, you will be asked to rate applicants for a blend of an innovative, transdisciplinary mindset; intellectual curiosity and flexibility; and the ability to play as equal, collegial, enthusiastic team-players.
 <p>
  * **4 HIGHLY PROMISING** – has all of : a) an innovative bent, b) theme-relevant expertise and c) positive personal attributes; should bring special value
  * **3 PROMISING** – is strong on two of the three areas with an allowable weakness in the third; good promise overall if a little lackluster in some areas
@@ -21,7 +24,7 @@ You will score the applicants based their answers to the [SampleApplicationForm 
 ### Determining the Final Selections:
 The final participant list needs to comprise people who are enthusiastic about the possibility of interdisciplinary collaboration around the driving topic. Furthermore, these events require a good mixture of disciplines, career length (especially early-careers), gender, cultural background, and life experience, because this enriches the innovative quality, outputs, and outcomes of a Knowinnovation workshop. The purpose of this type of event is to create projects that will surprise and intrigue. Involving a wide range of people in the conversations is the most important element in achieving this outcome.
 <p>
-The ideal KI workshop participants are those who come with no pre-agenda other than the excitement around the subject of the workshop. They are able to work together as equals without being precious about themselves, their own ideas, or their expertise. They enjoy starting with a clean slate or playing around with draft ideas that they delight in seeing developed in a collaborative setting into vastly enhanced and exciting, novel breakthroughs.
+The ideal participants are those who come with no pre-agenda other than the excitement around the subject of the workshop. They are able to work together as equals without being precious about themselves, their own ideas, or their expertise. They enjoy starting with a clean slate or playing around with draft ideas that they delight in seeing developed in a collaborative setting into vastly enhanced and exciting, novel breakthroughs.
 
 When thinking about your overall selections, please bear in mind that a diverse mix of the right kind of participants is important to boost the innovation richness and dynamic: ensure that the invited group is a good mix across early to senior careers*, gender, culture, type of institute, and life experience. More on diversity can be found [here](Selecting Ideal Participants).
 

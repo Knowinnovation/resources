@@ -5,6 +5,10 @@ includeIn:
 - provocateur
 - stakeholder
 - administrator
+- microlab-guide
+mode:
+- f2f
+- virtual
 language:
 - en-gb
 - en-us

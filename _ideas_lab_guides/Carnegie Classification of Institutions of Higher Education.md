@@ -2,7 +2,9 @@
 title: Carnegie Classification of Institutions of Higher Education
 layout: default
 includeIn: 
-
+mode:
+- f2f
+- virtual
 language:
 - en-gb
 - en-us

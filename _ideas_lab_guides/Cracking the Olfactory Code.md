@@ -3,6 +3,9 @@ title: Cracking the Olfactory Code
 layout: default
 includeIn: 
 - examples
+mode:
+- f2f
+- virtual
 language:
 - en-gb
 - en-us
