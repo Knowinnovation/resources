@@ -3,6 +3,9 @@ title: Provocateur Role
 layout: default
 includeIn: 
 - provocateurs
+mode:
+- f2f
+- virtual
 language:
 - en-gb
 - en-us

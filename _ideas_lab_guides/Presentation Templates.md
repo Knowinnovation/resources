@@ -2,6 +2,9 @@
 title: Presentation Templates
 layout: default
 includeIn: 
+mode:
+- f2f
+- virtual
 language:
 - en-gb
 - en-us
@@ -11,7 +14,7 @@ Once working groups have formed, we send them off to work in break-out rooms to 
 **Presentation 1: Day 3**
  * Working title
  * Summary of the problem
- *  Who’s in your group?
+ * Who’s in your group?
  * What's novel?
  * Gaps to fill, resources you need
  * 5 minutes max

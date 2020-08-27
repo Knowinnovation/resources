@@ -3,6 +3,9 @@ title: Plus 10 Talks
 layout: default
 includeIn: 
 - provocateurs
+mode:
+- f2f
+- virtual
 language:
 - en-gb
 - en-us

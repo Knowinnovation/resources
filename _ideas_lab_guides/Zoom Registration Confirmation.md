@@ -1,6 +1,9 @@
 ---
 title: Zoom Registration Confirmation
 layout: default
+mode:
+- f2f
+- virtual
 language:
 - en-gb
 - en-us

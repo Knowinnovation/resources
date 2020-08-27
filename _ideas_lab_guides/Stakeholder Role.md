@@ -2,7 +2,6 @@
 title: Stakeholder
 layout: default
 includeAll: stakeholder
-homePage: true
 language:
 - en-gb
 - en-us

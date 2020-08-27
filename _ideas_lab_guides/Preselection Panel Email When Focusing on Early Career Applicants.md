@@ -2,6 +2,9 @@
 title: Preselection Panel Email When Focusing on Early Career Applicants
 layout: default
 includeIn: selection
+mode:
+- f2f
+- virtual
 language:
 - en-gb
 - en-us

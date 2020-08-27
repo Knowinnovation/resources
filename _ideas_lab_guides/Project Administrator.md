@@ -4,6 +4,9 @@ layout: default
 includeAll: administrator
 includeIn:
 - ideas-lab-guide
+mode:
+- f2f
+- virtual
 Language:
 - en-gb
 - en-us

@@ -1,7 +1,10 @@
 title: What is a Sandpit
 layout: default
-includeIn: 
-
+includeIn:
+- sandpit-guide 
+mode:
+- f2f
+- virtual
 language:
 - en-gb
 ---

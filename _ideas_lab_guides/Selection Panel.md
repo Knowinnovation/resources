@@ -2,7 +2,9 @@
 title: Selection Panel
 layout: default
 includeAll: selection
-homePage: true
+mode:
+- f2f
+- virtual
 language:
 - en-gb
 - en-us

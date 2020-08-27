@@ -1,6 +1,9 @@
 ---
 title: The Creative Thinking Course
 layout: default
+mode:
+- f2f
+- virtual
 language:
 - en-gb
 - en-us

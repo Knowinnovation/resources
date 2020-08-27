@@ -3,6 +3,9 @@ title: Provocation
 layout: default
 includeIn:
 - facilitator
+mode:
+- f2f
+- virtual
 language:
 - en-gb
 - en-us

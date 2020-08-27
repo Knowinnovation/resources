@@ -3,6 +3,9 @@ title: Scoring Guidance for Selection Panel Members
 layout: default
 includeIn: 
 - selection
+mode:
+- f2f
+- virtual
 language:
 - en-gb
 - en-us

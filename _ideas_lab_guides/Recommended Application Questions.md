@@ -1,6 +1,9 @@
 ---
 title: Recommended Application Questions
 layout: default
+mode:
+- f2f
+- virtual
 includeIn: 
 - selection
 language:

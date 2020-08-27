@@ -1,6 +1,9 @@
 ---
 title: Territory Map Resources
 layout: default
+mode:
+- f2f
+- virtual
 language:
 - en-gb
 - en-us

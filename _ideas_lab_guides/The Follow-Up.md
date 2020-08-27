@@ -1,6 +1,9 @@
 ---
 title: The Follow-Up
 layout: default
+mode:
+- f2f
+- virtual
 language:
 - en-gb
 - en-us

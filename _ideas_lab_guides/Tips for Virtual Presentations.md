@@ -3,7 +3,10 @@ title: Tips for Virtual Presentations
 layout: default
 includeIn:
 - facilitator
-
+- microlab
+mode:
+- f2f
+- virtual
 language:
 - en-gb
 - en-us

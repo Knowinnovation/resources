@@ -2,6 +2,9 @@
 title: Proforma Template and What Makes a Great Proposal
 layout: default
 includeIn: 
+mode:
+- f2f
+- virtual
 language:
 - en-gb
 - en-us

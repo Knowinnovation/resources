@@ -2,11 +2,14 @@
 title: Selection Panel Role
 layout: default
 includeIn: selection
+mode:
+- f2f
+- virtual
 language:
 - en-gb
 - en-us
 ---
-A Knowinnovation workshop succeeds – or fails – primarily because of the right mix of people in the room: Participants who represent a diverse range of experiences and who are likely to enjoy this intense, interdisciplinary experience.
+The workshop succeeds – or fails – primarily because of the right mix of people in the room: Participants who represent a diverse range of experiences and who are likely to enjoy this intense, interdisciplinary experience.
 
 Choosing the Participants is usually done by Selection Panel early in the planning process, prior to the event. These Panel members are responsible for putting the right people in the room, and that is extremely important.
 

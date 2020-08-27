@@ -5,6 +5,9 @@ includeIn:
 - organizer
 - director
 - mentor
+mode:
+- f2f
+- virtual
 language:
 - en-gb
 - en-us

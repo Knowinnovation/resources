@@ -1,6 +1,9 @@
 ---
 title: Rejection Letter
 layout: default
+mode:
+- f2f
+- virtual
 includeIn: 
 - letters
 language:

@@ -1,5 +1,8 @@
 title: What is an Ideas Lab
 layout: default
+mode:
+- f2f
+- virtual
 includeIn: 
 - organizer
 - director

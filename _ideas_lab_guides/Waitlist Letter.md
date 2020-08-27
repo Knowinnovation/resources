@@ -3,6 +3,9 @@ title: Waitlist Letter
 layout: default
 includeIn: 
 - letters
+mode:
+- f2f
+- virtual
 language:
 - en-gb
 - en-us

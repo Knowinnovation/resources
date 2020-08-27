@@ -2,6 +2,9 @@
 title: Writing Personal Plus 10 Talks
 layout: default
 includeIn: participants
+mode:
+- f2f
+- virtual
 language:
 - en-gb
 - en-us

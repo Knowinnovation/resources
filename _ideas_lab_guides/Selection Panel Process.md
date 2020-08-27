@@ -2,6 +2,9 @@
 title: Selection Panel Process
 layout: default
 includeIn: selection
+mode:
+- f2f
+- virtual
 language:
 - en-gb
 - en-us
