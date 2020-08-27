@@ -1,6 +1,6 @@
 ---
 title: index
-layout: default
+layout: title-page
 ---
 ## Welcome to the Resources Wiki
 
