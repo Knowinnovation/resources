@@ -4,5 +4,7 @@ description: A collection of documents to help you understand how to run and Ide
 collections:
  ideas_lab_guides:
   output: true
+ guides:
+  output: true
 
  
