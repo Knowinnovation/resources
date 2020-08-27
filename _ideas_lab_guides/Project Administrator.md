@@ -2,7 +2,8 @@
 title: Project Administrator
 layout: default
 includeAll: administrator
-homePage: True
+includeIn:
+- ideas-lab-guide
 Language:
 - en-gb
 - en-us

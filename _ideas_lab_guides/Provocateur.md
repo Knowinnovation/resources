@@ -2,6 +2,8 @@
 title: Provocateur
 layout: default
 includeAll: provocateurs
+includeIn:
+- ideas-lab-guide
 homePage: true
 language:
 - en-gb

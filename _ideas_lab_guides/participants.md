@@ -1,6 +1,8 @@
 ---
 title: Participants
 includeAll: participants
+includeIn:
+- ideas-lab-guide
 layout: default
 language:
 - en-gb
