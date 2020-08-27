@@ -5,7 +5,6 @@ includeAll:
 - director
 includeIn:
 - ideas-lab-guide
-- sandpit
 mode:
 - f2f
 - virtual
