@@ -4,6 +4,7 @@ layout: default
 includeAll: mentor
 includeIn:
 - ideas-lab-guide
+- mentor
 mode:
 - f2f
 - virtual
