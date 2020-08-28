@@ -1,8 +1,7 @@
 ---
 title: Director
 layout: default
-includeAll: 
-- director
+includeAll: director
 includeIn:
 - ideaslabguide
 mode:
@@ -23,7 +22,7 @@ These pages are designed to introduce you to the process and highlight the speci
 {%- for each in site.ideas_lab_guides -%}
 
 {% for item in each.includeIn %}
-<li><a href="{{each.url}}">{{each.title}}</a></li>
+<li><a href="{{each.url}}">{{each.title}}</a> - {{each.includeIn}} = {{each.includeIn == </li>
 {% if item == {{page.includeAll}} then %}
 
 <li><a href="{{each.url}}">{{each.title}}</a></li>
