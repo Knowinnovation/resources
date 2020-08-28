@@ -21,7 +21,7 @@ We have organized the resources into "pathways". Each pathway is designed to mee
 
 
 
-<li><a href="{{each.url}}">{{each.title}} - {{each.includeIn}} </a></li>
+<li><a href="{{each.url}}">{{each.title}} - ({{item}}) - {{each.includeIn}} </a></li>
 
 
 
