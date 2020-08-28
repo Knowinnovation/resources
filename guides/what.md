@@ -1,4 +1,5 @@
-title: What is a Sandpit
+---
+title: What is a Sandpit - from guides
 layout: default
 includeIn:
 - sandpit-guide 
