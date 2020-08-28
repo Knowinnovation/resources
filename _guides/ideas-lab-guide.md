@@ -26,7 +26,7 @@ We have organized the resources into "pathways". Each pathway is designed to mee
 <li><a href="{{each.url}}">{{each.title}}</a></li>
 =========
 <li><strong><a href="{{each.url}}">{{each.title}} - ({{item}}) - {{each.includeIn}}  - {{page.includeAll}}</a></strong></li>
-{% else &}
+{% else %}
 <p>nothing matched</p>p>
 {% endif %}
 
