@@ -27,8 +27,6 @@ We have organized the resources into "pathways". Each pathway is designed to mee
 
 <li><a href="{{each.url}}">{{each.title}}</a></li>
 
-{% else %}
-<p>no match  item={{item}} includeAll={{page.includeAll}}</p>
 {% endif %}
 
 {% endfor %}
