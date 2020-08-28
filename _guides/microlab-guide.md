@@ -3,7 +3,7 @@ title: Microlab
 layout: default
 homePage: true
 includeAll: 
-- microlab-guide
+- microlabguide
 includeIn: 
 language:
 - en-gb
