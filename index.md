@@ -10,3 +10,11 @@ change to page again - and one more time - and back again
 loop has gone
 
 one more time.
+
+<ul>
+{% for each in site.ideas_lab %}
+
+<li><a href="{{each.url}}">{{each.title}}</a></li>
+
+{% endfor %}
+</ul>
