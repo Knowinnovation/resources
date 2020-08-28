@@ -17,6 +17,12 @@ loop has gone
 * {{each.title}}
 {% endfor %}
 
+now for the ideas lab collection
+{% for each in site.ideas_lab %}
+* {{each.title}}
+{% endfor %}
+
+
 
 {{site.collections}}
 ------------
