@@ -11,7 +11,7 @@ loop has gone
 
 {{site.collections}}
 
-about to start the loop
+about to start the loooop
 <ul>
 {% for each in site.guides %}
 inside the loop
