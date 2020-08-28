@@ -9,6 +9,7 @@ mode:
 language:
 - en-gb
 - en-us
+
 ---
 Scenarios are a great way of exploring, and communicating intriguing possibilities. The provide a plausible world in which you, and your colleagues, can explore "what if" questions, and develop new ideas.
 
