@@ -19,7 +19,7 @@ We have organized the resources into "pathways". Each pathway is designed to mee
 
 
 <ul>
-{%- for each in site.ideas_lab_guides -%}
+{% for each in site.ideas_lab %}
 
 {% for item in each.includeIn %}
 
@@ -31,5 +31,5 @@ We have organized the resources into "pathways". Each pathway is designed to mee
 
 {% endfor %}
 
-{%- endfor -%}
+{% endfor %}
 </ul>
