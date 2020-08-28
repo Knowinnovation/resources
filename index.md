@@ -13,6 +13,12 @@ ccc
 -  {{coll.label}}
 {% endfor %}
 
+guides collection first
+
+{% for each in site.guides %}
+* {{each.title}}
+{% endfor %}
+
 now for the ideas lab collection
 {% for each in site.ideas_lab %}
 * {{each.title}}
