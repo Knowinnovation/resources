@@ -7,7 +7,7 @@ layout: title-page
 
 We have organized the resources into a series of guides, based upon the type of event. You are most welcome to explore all the documents, but if you are short of time, then please start with the guide that seems most relevant for you.
 
-bbb
+ccc
 
 {% for coll in site.collections %}
 -  {{coll.label}}
