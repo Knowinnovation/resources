@@ -8,6 +8,7 @@ mode:
 language:
 - en-gb
 - en-us
+
 ---
 Another way to provoke new thinking is to take a field trip to a specific location that can add a dimension of first-hand knowledge that increases the participants’ understanding of the challenge and their ability to identify questions they wouldn’t have otherwise considered. For example, for an event about data privacy and security, we visited the new terminal at London Heathrow airport to tour their security facilities. At an event about decreasing the battery load of soldiers, we made a trip to a military base where scientists could see the actual battery load an infantryman was required to carry. For a workshop about energy efficiency and user-centered design, we toured a building that had incorporated energy and user-friendly elements, as inspiration and also lessons learned. An excursion of this nature will add a more visual and kinesthetic component to the workshop. The change of location can be invigorating too. 
 
