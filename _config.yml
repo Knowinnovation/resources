@@ -4,7 +4,5 @@ description: A collection of documents to help you understand how to run and Ide
 collections:
  ideas_lab:
   output: true
- sandit:
-  output: true
 
  
