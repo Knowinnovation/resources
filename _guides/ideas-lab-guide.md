@@ -3,7 +3,7 @@ title: Ideas lab
 layout: default
 homePage: true
 includeAll: 
-- "ideas lab guide"
+- ideaslabguide
 includeIn: 
 language:
 - en-gb
