@@ -2,8 +2,7 @@
 title: Microlab
 layout: default
 homePage: true
-includeAll: 
-- microlabguide
+includeAll: microlabguide
 includeIn: 
 language:
 - en-gb
@@ -14,6 +13,7 @@ language:
 This guide is designed to provide you with much of the information you need to run a Microlab 
 
 We have organized the resources into "pathways". Each pathway is designed to meet the needs of a particular role in the event. If you are not sure about your role, it is probably best to start with the Organising Committee pathway.
+
 <ul>
 {%- for each in site.ideas_lab_guides -%}
 

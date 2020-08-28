@@ -5,7 +5,7 @@ includeIn:
 - provocateur
 - stakeholder
 - administrator
-- microlab-guide
+- microlabguide
 mode:
 - f2f
 - virtual
