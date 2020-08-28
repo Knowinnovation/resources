@@ -2,7 +2,6 @@
 title: Ideas lab
 layout: default
 homePage: true
-includeAll: ideaslabguide
 includeIn: 
 mode:
 - f2f
@@ -21,15 +20,11 @@ We have organized the resources into "pathways". Each pathway is designed to mee
 <ul>
 {%- for each in site.ideas_lab -%}
 
-{% for item in each.includeIn %}
-
-{% if item == {{page.includeAll}} then %}
+{% if {{page.homePage}}==true then %}
 
 <li><a href="{{each.url}}">{{each.title}}</a></li>
 
 {% endif %}
-
-{% endfor %}
 
 {%- endfor -%}
 </ul>
