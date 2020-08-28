@@ -2,9 +2,11 @@
 title: Ideas lab
 layout: default
 homePage: true
-includeAll: 
-- ideaslabguide
+includeAll: ideaslabguide
 includeIn: 
+mode:
+- f2f
+- virtual
 language:
 - en-gb
 - en-us
@@ -24,8 +26,7 @@ We have organized the resources into "pathways". Each pathway is designed to mee
 {% if item == {{page.includeAll}} then %}
 
 <li><a href="{{each.url}}">{{each.title}}</a></li>
-=========
-<li><strong><a href="{{each.url}}">{{each.title}} - ({{item}}) - {{each.includeIn}}  - {{page.includeAll}}</a></strong></li>
+
 {% else %}
 <p>no match  item={{item}} includeAll={{page.includeAll}}</p>
 {% endif %}
