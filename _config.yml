@@ -5,7 +5,7 @@ collections_dir: guides
 collections:
   ideas_lab:
     output: true
-  guides:
+  sandpit:
     output: true
 
 
