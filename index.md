@@ -13,7 +13,7 @@ loop has gone
 
 about to start the loop
 <ul>
-{% for each in site.ideas_lab %}
+{% for each in site.guides %}
 inside the loop
 {{ forloop.rindex }}
 
