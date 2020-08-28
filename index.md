@@ -13,6 +13,9 @@ loop has gone
 -  {{coll.label}}
 {% endfor %}
 
+{% for each in site.guides %}
+* {{each.title}}
+{% endfor %}
 
 
 {{site.collections}}
