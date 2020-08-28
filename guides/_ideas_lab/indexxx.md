@@ -10,6 +10,7 @@ language:
 - en-gb
 - en-us
 ---
+
 ## Welcome to the Ideas Lab Guide
 
 This guide is designed to provide you with much of the information you need to run an Ideas Lab - including the [History of Knowinnovation Workshops](ideas_lab/History of Knowinnovation Workshops), [Articles From Previous Workshops](ideas_lab/Articles From Previous Workshops), and [NSF-funded Ideas Lab policies](https://www.nsf.gov/pubs/policydocs/pappguide/nsf16001/nsf16_1.pdf#page#54). 
