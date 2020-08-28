@@ -2,7 +2,7 @@
 title: Participants
 includeAll: participants
 includeIn:
-- ideas-lab-guide
+- ideaslabguide
 layout: default
 mode:
 - f2f
@@ -19,7 +19,7 @@ This section outlines the various preparatory activities that might be useful fo
 
 {% if each.includeIn == {{page.includeAll}} then %}
 
-* [{{each.title}}]({{each.url}})
+* {{each.title}}]({{each.url}})
 
 {% endif %}
 
