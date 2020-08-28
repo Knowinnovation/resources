@@ -2,7 +2,7 @@
 title: The History of Ideas Labs
 layout: default
 includeIn: 
-- ideaslab-guide
+- ideas-lab-guide
 mode:
 - f2f
 - virtual
