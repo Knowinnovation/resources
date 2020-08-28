@@ -2,7 +2,7 @@ theme: jekyll-theme-architect
 title: Resources
 description: A collection of documents to help you understand how to run and Ideas Lab
 collections:
- ideas_lab:
-  output: true
+  ideas_lab:
+    output: true
 
  
