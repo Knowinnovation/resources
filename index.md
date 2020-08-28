@@ -10,12 +10,7 @@ change to page again - and one more time - and back again
 loop has gone
 
 {{site.collections}}
-
-about to start the loooop
-<ul>
-{% for each in site.guides %}
-inside the loop
-{{ forloop.rindex }}
-
-{% endfor %}
-</ul>
+------------
+{{site.documents}}
+-----------
+{{page.dir}}
