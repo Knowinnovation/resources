@@ -3,7 +3,7 @@ title: Mentor
 layout: default
 includeAll: mentor
 includeIn:
-- ideas-lab-guide
+- ideaslabguide
 mode:
 - f2f
 - virtual
