@@ -8,6 +8,7 @@ mode:
 - virtual
 language:
 - en-us
+
 ---
 # The Ideas Lab#
 
