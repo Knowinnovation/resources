@@ -12,7 +12,7 @@ loop has gone
 <ul>
 {% for each in site.ideas_lab %}
 
-<li><a href="{{each.url}}">{{each.title}}</a></li>
+{{ forloop.rindex }}
 
 {% endfor %}
 </ul>
