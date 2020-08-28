@@ -7,16 +7,10 @@ layout: title-page
 
 We have organized the resources into a series of guides, based upon the type of event. You are most welcome to explore all the documents, but if you are short of time, then please start with the guide that seems most relevant for you.
 
-aaa
+bbb
 
 {% for coll in site.collections %}
 -  {{coll.label}}
-{% endfor %}
-
-guides loop first
-
-{% for each in site.guides %}
-* {{each.title}}
 {% endfor %}
 
 now for the ideas lab collection
@@ -28,8 +22,6 @@ now for the ideas lab collection
 
 {{site.collections}}
 
-------------
-{{site.documents}}
 
 -----------
 {{page.dir}}
