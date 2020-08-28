@@ -9,6 +9,7 @@ mode:
 language:
 - en-gb
 - en-us
+
 ---
 A good Call to Action presentation should leave participants with a clear understanding of the challenge, coupled with the desire to address it, and at least the beginnings of some thoughts on how they might participate. Obviously, this is a lot to ask from a single presentation. Fortunately, we have found that, as long as the challenge is important, covering the following points will usually get the desired result.
 * What is the broad challenge we are addressing? It is probably best to approach this through the [5 Ws and an H](https://en.wikipedia.org/wiki/Five_Ws) technique. It won't be necessary to go into huge detail, but people do need to understand the broad definition of the problem. By the end of the Call to Action, participants should be able to give a short summary of your talk, and accurately convey the importance of the scientific challenge.
