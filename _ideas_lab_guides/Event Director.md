@@ -4,7 +4,7 @@ layout: default
 includeAll: 
 - director
 includeIn:
-- "ideas lab guide"
+- ideaslabguide
 mode:
 - f2f
 - virtual
