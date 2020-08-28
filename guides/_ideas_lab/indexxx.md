@@ -9,6 +9,7 @@ mode:
 language:
 - en-gb
 - en-us
+
 ---
 
 ## Welcome to the Ideas Lab Guide
