@@ -9,8 +9,6 @@ We have organized the resources into a series of guides, based upon the type of 
 change to page again - and one more time - and back again
 loop has gone
 
-one more time.
-
 <ul>
 {% for each in site.ideas_lab %}
 
