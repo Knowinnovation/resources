@@ -3,7 +3,7 @@ title: Organizing Committee
 layout: default
 includeAll: organizer
 includeIn:
-- ideas-lab-guide
+- ideaslabguide
 mode:
 - f2f
 - virtual
