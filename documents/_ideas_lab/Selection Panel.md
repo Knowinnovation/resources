@@ -2,6 +2,7 @@
 title: Selection Panel
 layout: default
 includeAll: selection
+homePage: true
 mode:
 - f2f
 - virtual
@@ -13,7 +14,7 @@ Thank you for agreeing to be on the Selection Panel for the upcoming workshop! A
 
 These pages are designed to introduce you to the process and highlight the specific aspects of your role.
 <ul>
-{%- for each in site.ideas_lab_guides -%}
+{%- for each in site.ideas_lab -%}
 
 {% for item in each.includeIn %}
 
