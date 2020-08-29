@@ -3,6 +3,7 @@ title: Mentor Role
 layout: default
 includeIn:
 - mentor
+- organizer
 mode:
 - f2f
 - virtual
