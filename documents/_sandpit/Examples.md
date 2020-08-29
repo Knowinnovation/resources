@@ -21,7 +21,7 @@ language:
 
 {% for item in each.includeIn %}
 
-{% if item == {{page.includeAll}} %}
+{% if item == page.includeAll %}
 
 <li><a href="{{each.url}}">{{each.title}}</a></li>
 
