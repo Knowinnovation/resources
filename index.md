@@ -11,6 +11,6 @@ Guide List::
 
 <ul>
 {% for each in site.guides %}
-<li><a href="{{each.url}}">{{page.title}}</a></li>
+<li><a href="{{each.url}}">{{each.title}}</a></li>
 {% endfor %}
 </ul>
