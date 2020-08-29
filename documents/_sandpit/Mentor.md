@@ -2,6 +2,7 @@
 title: Mentor
 layout: default
 includeAll: mentor
+homePage: true
 includeIn:
 - ideaslabguide
 mode:

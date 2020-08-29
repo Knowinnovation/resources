@@ -3,6 +3,7 @@ title: Director
 layout: default
 includeAll: 
 - director
+homePage: true
 includeIn:
 - ideaslabguide
 mode:

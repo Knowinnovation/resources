@@ -2,6 +2,7 @@
 title: Provocateur
 layout: default
 includeAll: provocateurs
+homePage: true
 includeIn:
 - ideaslabguide
 mode:

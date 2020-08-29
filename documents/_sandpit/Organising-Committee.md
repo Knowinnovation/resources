@@ -2,6 +2,7 @@
 title: Organising Committee
 layout: default
 includeAll: organizer
+homePage: true
 includeIn:
 - sandpit-guide
 mode:
