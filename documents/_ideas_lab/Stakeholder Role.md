@@ -15,7 +15,7 @@ The role of the Stakeholder is to provoke the thinking of the participants by he
 
 {% for item in each.includeIn %}
 
-{% if item == {{page.includeAll}} %}
+{% if item == page.includeAll %}
 
 <li><a href="{{each.url}}">{{each.title}}</a></li>
 

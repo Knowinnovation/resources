@@ -26,7 +26,7 @@ In order to make things easier, we've included some resources that we hope you f
 
 {% for item in each.includeIn %}
 
-{% if item == {{page.includeAll}} %}
+{% if item == page.includeAll %}
 
 <li><a href="{{each.url}}">{{each.title}}</a></li>
 
