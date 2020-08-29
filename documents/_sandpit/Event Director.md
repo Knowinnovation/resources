@@ -23,7 +23,7 @@ These pages are designed to introduce you to the process and highlight the speci
 {% for each in site.sandpit %}
 
 {% for item in each.includeIn %}
-
+<li><a href="{{each.url}}">{{each.title}}  includeIn {{item}}  includeAll {{page.includeAll}}</a></li>
 {% if item == page.includeAll %}
 
 <li><a href="{{each.url}}">{{each.title}}</a></li>
