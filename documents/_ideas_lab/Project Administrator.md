@@ -2,8 +2,7 @@
 title: Project Administrator
 layout: default
 includeAll: administrator
-includeIn:
-- ideas-lab-guide
+homePage: true
 mode:
 - f2f
 - virtual
