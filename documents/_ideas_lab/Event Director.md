@@ -1,6 +1,7 @@
 ---
 title: Director
 layout: default
+homePage: true
 includeAll: 
 - director
 includeIn:
@@ -20,11 +21,11 @@ Thank you for agreeing to take on the role of the Director at the upcoming works
 
 These pages are designed to introduce you to the process and highlight the specific aspects of your role.
 <ul>
-{%- for each in site.ideas_lab_guides -%}
+{%- for each in site.ideas_lab -%}
 
 {% for item in each.includeIn %}
-<li><a href="{{each.url}}">{{each.title}}</a></li>
-{% if item == {{page.includeAll}} %}
+
+{% if item == {{page.includeAll}} then %}
 
 <li><a href="{{each.url}}">{{each.title}}</a></li>
 

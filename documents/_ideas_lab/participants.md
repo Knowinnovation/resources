@@ -17,7 +17,7 @@ This section outlines the various preparatory activities that might be useful fo
 
 {%- for each in site.ideas_lab_guides -%}
 
-{% if each.includeIn == {{page.includeAll}} %}
+{% if each.includeIn == {{page.includeAll}} then %}
 
 * {{each.title}}]({{each.url}})
 

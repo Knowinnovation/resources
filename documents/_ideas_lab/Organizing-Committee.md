@@ -2,8 +2,7 @@
 title: Organizing Committee
 layout: default
 includeAll: organizer
-includeIn:
-- ideaslabguide
+homePage: true
 mode:
 - f2f
 - virtual
@@ -20,7 +19,7 @@ There is plenty to do to kick off the event and having people to help with the a
 These pages are designed to introduce you to the process and highlight the specific aspects of your role.
 
 <ul>
-{%- for each in site.ideas_lab_guides -%}
+{%- for each in site.ideas_lab -%}
 
 {% for item in each.includeIn %}
 
