@@ -2,10 +2,8 @@
 title: Director
 layout: default
 homePage: true
-includeAll: 
+includeAll:
 - director
-includeIn:
-- ideaslabguide
 mode:
 - f2f
 - virtual
