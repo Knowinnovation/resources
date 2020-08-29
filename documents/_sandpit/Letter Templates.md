@@ -18,11 +18,11 @@ Here you will find a collection of letter templates that can be adapted, and sen
 
 
 <ul>
-{%- for each in site.ideas_lab_guides -%}
+{%- for each in site.ideas_lab -%}
 
 {% for item in each.includeIn %}
 
-{% if item == {{page.includeAll}} then %}
+{% if item == {{page.includeAll}} %}
 
 <li><a href="{{each.url}}">{{each.title}}</a></li>
 

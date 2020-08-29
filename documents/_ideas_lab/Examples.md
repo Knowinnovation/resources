@@ -17,11 +17,11 @@ language:
 ## Examples of projects that were created at previous events
 
 <ul>
-{%- for each in site.ideas_lab_guides -%}
+{%- for each in site.ideas_lab -%}
 
 {% for item in each.includeIn %}
 
-{% if item == {{page.includeAll}} then %}
+{% if item == {{page.includeAll}} %}
 
 <li><a href="{{each.url}}">{{each.title}}</a></li>
 

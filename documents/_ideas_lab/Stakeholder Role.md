@@ -11,11 +11,11 @@ The best way to be sure that the participants can get a full grasp of the contex
 The role of the Stakeholder is to provoke the thinking of the participants by helping them to deeply understand the nature of (usually a piece of) the problem, to share with them the current thinking on the challenge and the current research available, or to challenge them to think of possible solutions or to test their assumptions about what might be possible. The role of the Stakeholder, when presenting to the group, is not to persuade them to see things his or her way, but to provoke the participants to ask different kinds of questions about how the might approach the problem.
 
 <ul>
-{%- for each in site.ideas_lab_guides -%}
+{%- for each in site.ideas_lab -%}
 
 {% for item in each.includeIn %}
 
-{% if item == {{page.includeAll}} then %}
+{% if item == {{page.includeAll}} %}
 
 <li><a href="{{each.url}}">{{each.title}}</a></li>
 
