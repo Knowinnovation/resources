@@ -1,8 +1,7 @@
 ---
 title: Director
 layout: default
-includeAll: 
-- director
+includeAll: director
 homePage: true
 mode:
 - f2f

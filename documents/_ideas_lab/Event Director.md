@@ -2,8 +2,7 @@
 title: Director
 layout: default
 homePage: true
-includeAll:
-- director
+includeAll: director
 mode:
 - f2f
 - virtual
