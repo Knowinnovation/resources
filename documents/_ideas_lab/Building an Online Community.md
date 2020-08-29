@@ -19,3 +19,5 @@ However, these tools tend to focus on specific stages of an event. Our experienc
  * Share and review background briefing documents;
  * Collaboratively develop project ideas;
  * Engage in online discussions, before, during and after the workshop.
+
+If the community simply wants to engage in conversations, perhaps between actual events, then there are also a number of discussions platforms available. Many groups find that [Slack](https://slack.com) can be helpful. Equally, we have found that [Discord](https://discord.com) can be a good tool. However, these types of 'chat' based systems can suffer from the fact that the conversations tend to be quite emphemeral. To put it another way, anyone joining a conversation, mid-way, can find it difficult to catch up. An alternative, which we have found to be quite effective is [Discourse](https://discourse.org). Discourse builds upon the idea of threaded discussions, and has a number of moderation tools that make it a pleasure to work with.
