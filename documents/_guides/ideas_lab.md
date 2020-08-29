@@ -5,7 +5,6 @@ mode:
 - f2f
 - virtual
 language:
-- en-gb
 - en-us
 ---
 ## Welcome to the Ideas Lab Guide
