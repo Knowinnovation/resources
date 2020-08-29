@@ -11,7 +11,7 @@ language:
 - en-gb
 - en-us
 ---
-Thank you for agreeing to take on the role of the Director at the upcoming workshop! Having a Director at an event gives participants a colleague to look to for guidance and perspective, who is also an expert in a relevant field. Although each event is different, the Director’s role usually includes:
+Thank you for agreeing to take on the role of the Director at the upcoming workshop. Having a Director at an event gives participants a colleague to look to for guidance and perspective, who is also an expert in a relevant field. Although each event is different, the Director’s role usually includes:
 * Acting as the leader of the event.
 * Working with the [mentors](Mentor Role) to provide guidance on the output
 * Guiding the process from a scientific content perspective.
@@ -19,7 +19,7 @@ Thank you for agreeing to take on the role of the Director at the upcoming works
 
 These pages are designed to introduce you to the process and highlight the specific aspects of your role.
 <ul>
-{%- for each in site.ideas_lab -%}
+{% for each in site.ideas_lab %}
 
 {% for item in each.includeIn %}
 
@@ -31,5 +31,5 @@ These pages are designed to introduce you to the process and highlight the speci
 
 {% endfor %}
 
-{%- endfor -%}
+{% endfor %}
 </ul>
