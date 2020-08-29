@@ -12,7 +12,6 @@ includeIn:
 - director
 - selection
 ---
-# An Overview of the Workshop Process and Roles 
 
 ## Introduction
 This document explains the key roles within the workshop, and outlines the main tasks and responsibilities. These workshops, by their nature, are very flexible events. This document should therefore not be regarded as prescriptive, but rather as a starting point for a conversation about the roles and responsibilities at the workshop.
