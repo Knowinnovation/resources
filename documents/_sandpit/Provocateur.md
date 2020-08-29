@@ -22,7 +22,7 @@ Thank you for agreeing to be a Provocateur at the upcoming workshop! Bringing pe
 These pages are designed to introduce you to the process and highlight the specific aspects of your role.
 
 <ul>
-{%- for each in site.ideas_lab_guides -%}
+{%- for each in site.sandpit -%}
 
 {% for item in each.includeIn %}
 

@@ -21,7 +21,7 @@ Thank you for agreeing to take on the role of the Director at the upcoming works
 
 These pages are designed to introduce you to the process and highlight the specific aspects of your role.
 <ul>
-{%- for each in site.ideas_lab_guides -%}
+{%- for each in site.sandpit -%}
 
 {% for item in each.includeIn %}
 <li><a href="{{each.url}}">{{each.title}}</a></li>

@@ -15,7 +15,7 @@ language:
 
 This section outlines the various preparatory activities that might be useful for the participants
 
-{%- for each in site.ideas_lab_guides -%}
+{%- for each in site.sandpit -%}
 
 {% if each.includeIn == page.includeAll %}
 
