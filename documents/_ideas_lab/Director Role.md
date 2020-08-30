@@ -4,6 +4,7 @@ layout: default
 includeIn:
 - director
 - organizer
+- mentor
 mode:
 - f2f
 - virtual
