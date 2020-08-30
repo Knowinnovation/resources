@@ -2,4 +2,7 @@
 ---
 
 @import "{{ site.theme }}"
-body {background-color:red; font-family:arial;}
+
+ table {
+   border-collapse: collapse;
+ }
