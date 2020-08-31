@@ -1,37 +1,30 @@
 ---
-title: Guidelines for Recording Presentations
+title: Guidelines for Recording your Poster Session Presentation
 layout: default
 includeIn: 
-- provocateur
-- stakeholder
-- administrator
-- microlabguide
+- organizer
 mode:
-- f2f
 - virtual
 language:
-- en-gb
 - en-us
 ---
 Hello,
 
 The purpose of this email is to explain:
- * the design of the <<event>>, and how your session will work;
+ * the design of the <<event>>, and how your poster session will work;
  * how you can record and upload your presentation;
  * what we need you to do in the short term.
 
-The event has been designed so that almost all of the presentations will be pre-recorded, and made available to participants in advance of the event. This means that you can now use your time to focus on discussions with, and between, the participants. In the interests of simplicity, we have created a default structure for all of the sessions. The structure is outlined below. However, you are welcome to design your session in whatever way makes most sense for your topic, so please don’t feel constrained by the default design. 
+The event has been designed so that each of the posters will be accompanied by a pre-recorded presentation. Your presentation will be, in essence, the talk you would give to anyone who stopped at your poster during a face to face event. The presentations will be made available to participants in advance of the event. This means that you can now use your time to focus on discussions with the participants. In order to prepare for the event, we need each poster presenter to complete the following steps: 
 
-Default concurrent session design:
- * five minutes for you to set the scene, and suggest questions/provocations for your participants to discuss;
- * place the participants into virtual table groups, 5-6 people per group. These table groups typically talk for 20-30 minutes during which time they discuss the questions you raised in your presentation. The table groups will be able to capture their questions/ideas on electronic sticky-notes, and you will be able to see their notes as they type them;
- * finally, you will have up to 25 minutes for a Q&A/wrap up session, during which you can address any issues that you want to highlight.
-
-If you feel your session is likely to diverge from this basic structure, please let me know and we can arrange a time to discuss the options.
+Key Steps:
+ * Create your poster in the form of a series of slides. We  encourage the use of Google Slides, because it will make it very easy for participants to step through your presentation, prior to talking with you.
+ * Use Zoom to record yourself talking the viewers through your slides. 
+ * Finally, upload both the video, and the link to your Google Slides file to the dropbox file request link.
 
 **Recording your presentation**
 
-Although you are welcome to record a ‘straight to smartphone camera’ presentation without slides, we expect most presenters will want to record their slides with a voice over. 
+Although we encourage you to use Google Slides, and Zoom, we also recognize that you may want to use PowerPoint or Keynote. These two products offer a different, but equally good way of recording your voice as you move through your slides. 
  * In case you haven’t used this feature before, Microsoft provides a good walk through for PowerPoint on this webpage [support.office.com/en-us/article/Record-a-slide-show-with-narration-and-slide-timings-0B9502C6-5F6C-40AE-B1E7-E47D8741161C#OfficeVersion=Office_365](https://support.office.com/en-us/article/Record-a-slide-show-with-narration-and-slide-timings-0B9502C6-5F6C-40AE-B1E7-E47D8741161C#OfficeVersion=Office_365). 
  * Apple provide a similar feature for Keynote. Their instructions can be found here: [support.apple.com/en-gb/guide/keynote/tan8a5df9cc5/mac](https://support.apple.com/en-gb/guide/keynote/tan8a5df9cc5/mac)
  * Finally, if you would prefer to include a video of yourself, along with the slides, we recommend that you use Zoom’s Screen Share feature combined with local recording. The instructions can be found here: [support.zoom.us/hc/en-us/articles/201362473-Local-Recording](https://support.zoom.us/hc/en-us/articles/201362473-Local-Recording)
