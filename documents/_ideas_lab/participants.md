@@ -17,10 +17,13 @@ This section outlines the various preparatory activities that might be useful fo
 
 {%- for each in site.ideas_lab -%}
 
-{% if each.includeIn == page.includeAll %}
+{% for item in each.includeIn %}
+
+{% if item.includeIn == page.includeAll %}
 
 * {{each.title}}]({{each.url}})
 
 {% endif %}
+{% endfor %}
 
 {%- endfor -%}
