@@ -2,7 +2,7 @@
 title: Guidelines for Recording your Poster Session Presentation
 layout: default
 includeIn: 
-- organizer
+- participants
 mode:
 - virtual
 language:
