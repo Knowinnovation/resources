@@ -11,6 +11,8 @@ collections:
     output: true
   poster_session:
     output: true
+  conference:
+    output: true
 
 
  
