@@ -17,9 +17,9 @@ This section outlines the various preparatory activities that might be useful fo
 {% for item in each.includeIn %}
 
 {% if item == page.includeAll %}
-
-* {{each.title}}]({{each.url}})
-
+<ul>
+  <li><a href="{{each.url}}">{{each.title}}</a></li>
+</ul>
 {% endif %}
 {% endfor %}
 
