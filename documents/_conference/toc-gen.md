@@ -8,7 +8,7 @@ language:
 ---
 <h2>Table of Contents</h2> 
 <ol>
-{% for each in site.ideas_lab %}
+{% for each in site.conference %}
 {% unless each.title=="Table of Contents" %}
 <li><a href="{{each.url}}">{{ each.title}}</a></li>
 {% endunless %}
