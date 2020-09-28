@@ -3,6 +3,7 @@ title: Guidelines for Recording Plus 10 Presentations
 layout: default
 includeIn: 
 - letters
+- provocateur
 mode:
 - f2f
 - virtual
