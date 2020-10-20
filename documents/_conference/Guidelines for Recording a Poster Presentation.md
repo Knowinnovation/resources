@@ -18,7 +18,22 @@ This document explains:
  * how you can record and upload your poster presentation;
  * what we need you to do in the short term.
 
-The event has been designed so that all of the poster sessions will comprise a pre-recorded presentation, along with a Zoom breakout room in which you can discuss your poster with interested participants. Your poster presentation will be made available to participants in advance of the event. This means that you can now use your time to focus on discussions with, and between, the participants.  
+### What is a Poster Presentation?
+
+A virtual poster presentation will mirror the style of a typical poster at an in-person scientific conference.
+
+Please make one slide that depicts your full poster as it would look if you were to present it in person. This slide may include standard sections such as an introduction, methods, results, conclusions, references, and acknowledgements.
+
+Then, we would like you to create 4-5 slides that “zoom in” on the main sections of your poster. Please note that each of these slides can be copy and pasted from the sections of your full poster slide, with any necessary resizing. Here is a sample presentation for reference. This presentation was also included as a powerpoint in our email. 
+
+### Poster Guidelines
+ * Slides
+   * Please use the slide template to create your poster. It is yours to edit, and is shared with our conference team. 
+   * You must include the NCSE logo in your poster. We have added it in already for convenience.
+   * You should include the logo of your school/affiliation. You may also want to include any funder logos if applicable.
+   * You may add or delete  text boxes, images, graphs, and charts as needed. You can also change the size and shape of the template’s text boxes.
+   * You may edit the font style and size, as well as the presentation colors.
+   * Please do not alter the dimensions of the overall slide presentation.  
 
 How will the poster sessions work:
  * The poster recordings will be available on the website prior to the start of the event.
