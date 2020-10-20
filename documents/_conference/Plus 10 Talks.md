@@ -1,8 +1,7 @@
 ---
 title: Plus 10 Talks
 layout: default
-includeIn: 
-- presenters
+includeIn: presenters
 mode:
 - f2f
 - virtual
