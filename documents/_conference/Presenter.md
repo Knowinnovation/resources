@@ -16,7 +16,7 @@ Thank you for agreeing to present at the event.
 The following pages are designed to help you create and upload your presentation.
 
 <ul>
-{%- for each in site.ideas_lab -%}
+{%- for each in site.conference -%}
 
 {% for item in each.includeIn %}
 
