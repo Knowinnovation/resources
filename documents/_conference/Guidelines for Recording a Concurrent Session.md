@@ -1,5 +1,5 @@
 ---
-title: Guidelines for Recording a Lightning Talk
+title: Guidelines for Recording a Concurrent
 layout: default
 includeIn: 
 - presenters
@@ -18,12 +18,12 @@ This document explains:
  * how you can record and upload your poster presentation;
  * what we need you to do in the short term.
 
-The event has been designed so that all of the Lightning Talks will comprise a pre-recorded presentation, along with a Zoom breakout room in which you can discuss your talk with interested participants. Your presentation will be made available to participants in advance of the event. This means that you can now use your time to focus on discussions with, and between, the participants.  
+The event has been designed so that all of the Concurrent Sessions will comprise a pre-recorded presentation, along with a Zoom breakout room in which you, and your colleagues, can discuss your sessions with interested participants. Your presentation will be made available to participants in advance of the event. This means that you can now use your time to focus on discussions with, and between, the participants.  
 
 How will the sessions work:
  * The recordings will be available on the website prior to the start of the event.
  * The participants will be able to browse all the presentations, and leave questions and comments via the viritual sticky notes.
- * At the appointed time(s), you will be invited to start a Zoom meeting. Participants will be able to join the Zoom meeting in order to talk with you. The participants will be able to jump between Zoom meetings, so that they can interact with as many presenters as possible.
+ * At the appointed time, your facilitator will start your Zoom meeting. Participants will be able to join the Zoom meeting and engage in Q&A with you.
 
 **Recording your presentation**
 
