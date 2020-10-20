@@ -15,10 +15,20 @@ language:
 ---
 This document explains:
  * the design of the event, and how your session will work;
- * how you can record and upload your poster presentation;
+ * how you can record and upload your Flash Talk presentation;
  * what we need you to do in the short term.
 
-The event has been designed so that all of the Flash Talks will comprise a pre-recorded presentation, along with a Zoom breakout room in which you can discuss your talk with interested participants. Your presentation will be made available to participants in advance of the event. This means that you can now use your time to focus on discussions with, and between, the participants.  
+### What is a Flash Talk?
+
+Flash Talks are designed to quickly engage the audience on a concept or idea and do so in a way that encourages follow up with the speakers. Part of the value of the Conference is the opportunity to network with colleagues and peers. We intend for these talks to facilitate productive and engaging conversations between the session presenters and the audience.
+
+### Flash Talk Guidelines: 
+5 minutes per presentation - All presenters will pre-record a five minute presentation referencing a single slide.
+Please use your Flash Talk template to create your slide. 
+During the KnowInnovation Presentation Briefing, our team will demonstrate how to record your presentation. 
+Conference attendees will be able to watch your pre-recorded presentation, then ask you questions during live virtual Q&A sessions.
+
+During the conference, each presenter will have an allocated Zoom breakout room in which you can discuss your talk with interested participants. Because your presentation will be made available to participants in advance of the event, you can now use your time to focus on discussions with, and between, the participants.  
 
 How will the sessions work:
  * The recordings will be available on the website prior to the start of the event.
