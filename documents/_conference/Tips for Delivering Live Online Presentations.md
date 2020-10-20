@@ -1,9 +1,8 @@
 ---
-title: Tips for Virtual Presentations
+title: Tips for Delivering Live Online Presentations
 layout: default
 includeIn:
-- facilitator
-- microlab
+- presenters
 mode:
 - f2f
 - virtual

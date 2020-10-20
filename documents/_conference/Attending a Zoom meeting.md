@@ -4,7 +4,7 @@ layout: default
 includeIn: 
 - administrator
 - stakeholder
-- provocateur
+- presenters
 mode:
 - f2f
 - virtual
