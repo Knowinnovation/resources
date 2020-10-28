@@ -18,7 +18,7 @@ The goal of the Plus Talk is to stimulate and provoke the participants' thinking
 
 ### Instructions for +10 Speaker
 
-One of the most important aspects of our meeting will be encouraging everyone to think ambitiously, and to explore intriguing possibilities. In order to help people enter this frame of mind, we are asking you to prepare a 5-minute talk which addresses two questions:
+One of the most important aspects of our meeting will be encouraging everyone to think ambitiously, and to explore intriguing possibilities. In order to help people enter this frame of mind, we are asking you to prepare a 10-minute talk which addresses two questions:
 
  * What would be the most interesting research project that you would like to be doing, 10 years from now?
  * How might that project relate to the core topic(s) of the meeting?
