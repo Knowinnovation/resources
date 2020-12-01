@@ -5,6 +5,8 @@ collections_dir: documents
 collections:
   ideas_lab:
     output: true
+  virtual_ideas_lab:
+    output: true
   sandpit:
     output: true
   guides:
