@@ -1,7 +1,7 @@
 ---
 title: Provocateur
 layout: default
-includeAll: provocateurs
+includeAll: provocateur
 homePage: true
 mode:
 - f2f

@@ -5,7 +5,7 @@ language:
 - en-gb
 - en-us
 includeIn: 
-- provocateurs 
+- provocateur 
 - organizer
 - mentor 
 - administrators

@@ -26,11 +26,4 @@ Although you are welcome to record a ‘straight to smartphone camera�
 
 Once you have recorded your presentation, please:
  * Save it with a filename that includes your name, e.g. “session title your name.mp4”
- * Upload the presentation to our server using this link: 
-
-**Register on the website**
-
-We have set up a new website to manage the virtual event, and we would like you to join the site as soon as possible.  
- *  register, please click on this link <<go code goes here>>   Please note that the site does NOT support IE11, or older. You will need to use a modern browser such as Chrome, Firefox, Safari or Edge.
- * complete your profile. 
- * Test Zoom. You will find a link to a Zoom test page on the Welcome page of the site. - this may require you to install Zoom on your computer, or tablet.
+ * Upload the presentation to our server using the link you will have received in the email.

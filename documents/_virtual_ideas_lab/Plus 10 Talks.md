@@ -2,7 +2,7 @@
 title: Plus 10 Talks
 layout: default
 includeIn: 
-- provocateurs
+- provocateur
 mode:
 - f2f
 - virtual

@@ -2,7 +2,7 @@
 title: Provocateur Role
 layout: default
 includeIn: 
-- provocateurs
+- provocateur
 mode:
 - f2f
 - virtual
