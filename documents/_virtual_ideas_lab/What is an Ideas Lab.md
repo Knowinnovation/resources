@@ -13,7 +13,7 @@ language:
 # The Ideas Lab#
 
 ## What is it? ##
-An Ideas Lab is an intensive, interactive workshop designed to produce radically innovative research project proposals. Participants, from a diverse range of disciplines, come together in a creative, free-thinking environment – away from their everyday routines and responsibilities – and immerse themselves in a collaborative process around an important problem or challenge.
+An Ideas Lab is an intensive, interactive workshop designed to produce innovative research project proposals. Participants, from a diverse range of disciplines, come together in a creative, free-thinking environment – away from their everyday routines and responsibilities – and immerse themselves in a collaborative process around an important problem or challenge.
 
 In the UK this event is called a Sandpit. It was conceived in 2003, by the Engineering and Physical Sciences Research Council (EPSRC), with the objective of inspiring innovative and inter-disciplinary research proposals. Knowinnovation helped with the early design, and we’ve been privileged to be involved with these workshops ever since.
 
@@ -52,7 +52,7 @@ We ask three questions at the start of the planning process:
 1 Has the community developed a number of interesting, provocative ways of framing the problem?
 1 Does anyone, anywhere have ideas that are good enough to really solve this problem, and/or exploit the opportunities?
 1 If so, what is stopping us from solving it?
-Obviously, the answers to these questions are subjective and based on the organizers’ understanding of the area. But be- cause program officers and faculty members are usually deeply involved with the community, their insights can be accurate and illuminating.
+Obviously, the answers to these questions are subjective and based on the organizers’ understanding of the area. But because program officers and faculty members are usually deeply involved with the community, their insights can be accurate and illuminating.
 
 ### The Jumpstart ###
 Participants often go back to their institutions after an Ideas Lab and reflect on how the process can lead to a deeper understanding of a challenge and/or novel ideas to address it. But usually they don’t have the budget to do a full Ideas Lab, or it’s hard to pull too many of their internal staff away for five days. Knowinnovation offers a 3-day mini-Sandpit, called a Jumpstart.

@@ -13,13 +13,19 @@ language:
 # The Ideas Lab#
 
 ## What is it? ##
-An Ideas Lab is an intensive, interactive workshop designed to produce radically innovative research project proposals. Participants, from a diverse range of disciplines, come together in a creative, free-thinking environment – away from their everyday routines and responsibilities – and immerse themselves in a collaborative process around an important problem or challenge.
+An Ideas Lab is an intensive, interactive workshop designed to produce innovative research project proposals. Participants, from a diverse range of disciplines, come together in a creative, free-thinking environment – away from their everyday routines and responsibilities – and immerse themselves in a collaborative process around an important problem or challenge.
 
 In the UK this event is called a Sandpit. It was conceived in 2003, by the Engineering and Physical Sciences Research Council (EPSRC), with the objective of inspiring innovative and inter-disciplinary research proposals. Knowinnovation helped with the early design, and we’ve been privileged to be involved with these workshops ever since.
 
 The event is usually a 5-day residential program, with 20 to 30 participants invited from different disciplines and organizations. Over the course of the week, the group works to deepen their shared understanding of the designated challenge, to redefine the problems within the challenge and to generate novel ideas for research proposals.
 
-The typical criteria used to measure the output of an Ideas Lab event: Is it risky and cutting edge research? Is it exciting science? Would it be unlikely to get funded through another source? Does it require at least two disciplines?
+Virtual Ideas Labs embody the same processes as face-to-face events, but have the advantage of greater flexibility in terms of timing, duration, and the number of participants. For those reasons, virtual events have become increasingly popular.
+
+The typical criteria used to measure the output of an Ideas Lab event include: 
+* Is it risky and cutting edge research? 
+* Is it exciting science? 
+* Would it be unlikely to get funded through another source? 
+* Does it require at least two disciplines?
 
 An Ideas Lab is not a typical meeting. Nobody stands up to give their papers. There’s no poster session. It’s never about a challenge within one domain; an Ideas Lab is necessarily interdisciplinary. It’s not a workshop designed to produce incremental research advancement; the goal is to provoke out of the ordinary science that wouldn’t otherwise be funded.
 
@@ -46,7 +52,7 @@ We ask three questions at the start of the planning process:
 1 Has the community developed a number of interesting, provocative ways of framing the problem?
 1 Does anyone, anywhere have ideas that are good enough to really solve this problem, and/or exploit the opportunities?
 1 If so, what is stopping us from solving it?
-Obviously, the answers to these questions are subjective and based on the organizers’ understanding of the area. But be- cause program officers and faculty members are usually deeply involved with the community, their insights can be accurate and illuminating.
+Obviously, the answers to these questions are subjective and based on the organizers’ understanding of the area. But because program officers and faculty members are usually deeply involved with the community, their insights can be accurate and illuminating.
 
 ### The Jumpstart ###
 Participants often go back to their institutions after an Ideas Lab and reflect on how the process can lead to a deeper understanding of a challenge and/or novel ideas to address it. But usually they don’t have the budget to do a full Ideas Lab, or it’s hard to pull too many of their internal staff away for five days. Knowinnovation offers a 3-day mini-Sandpit, called a Jumpstart.
