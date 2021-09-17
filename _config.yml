@@ -15,6 +15,8 @@ collections:
     output: true
   conference:
     output: true
+  microlab:
+    output: true
 
 
  
