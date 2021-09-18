@@ -1,6 +1,7 @@
 ---
 title: Microlabs
 layout: default
+includeAll: microlab
 ---
 {% assign all_docs = site.shared | concat: site.microlab  %}
 
@@ -10,13 +11,17 @@ This guide is designed to provide you with much of the information you need to r
 
 ### Pathways
 <ul>
-{%- for each in site.microlab -%}
+{%- for each in all_docs -%}
 
-{% if each.homePage==true %}
+	{% for item in each.includeIn %}
 
-<li><a href="{{each.url}}">{{each.title}}</a></li>
+		{% if each.homePage ==true and item == page.includeAll %}
 
-{% endif %}
+		<li><a href="{{each.url}}">{{each.title}}</a></li>
+
+		{% endif %}
+
+	{%- endfor -%}
 
 {%- endfor -%}
 </ul>

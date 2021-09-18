@@ -3,6 +3,8 @@ title: Selection Panel
 layout: default
 includeAll: selection
 homePage: true
+includeIn:
+- microlab
 mode:
 - f2f
 - virtual

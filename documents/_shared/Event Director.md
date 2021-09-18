@@ -3,6 +3,8 @@ title: Director
 layout: default
 homePage: true
 includeAll: director
+includeIn:
+- microlab
 mode:
 - f2f
 - virtual
