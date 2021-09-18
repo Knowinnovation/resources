@@ -11,7 +11,7 @@ This guide is designed to provide you with much of the information you need to r
 
 ### Pathways with subdirectories
 <ul>
-{%- for each in microlab.pathways -%}
+{%- for each in site.microlab.pathways -%}
 
 	{% for item in each.includeIn %}
 
