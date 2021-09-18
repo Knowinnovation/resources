@@ -17,7 +17,7 @@ collections:
     output: true
   microlab:
     output: true
-  microlab.pathways:
+  microlab/pathways:
     output: true
   shared:
     output: true
