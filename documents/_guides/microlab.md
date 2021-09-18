@@ -2,7 +2,7 @@
 title: Microlabs
 layout: default
 ---
-{% assign docs = site.shared | concat: site.microlab | sort %}
+{% assign docs = site.shared | concat: site.microlab  %}
 
 ## Welcome to the Microlab Guide
 
