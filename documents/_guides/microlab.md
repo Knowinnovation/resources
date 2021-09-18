@@ -13,11 +13,15 @@ This guide is designed to provide you with much of the information you need to r
 <ul>
 {%- for each in site.microlab -%}
 
+	{% for item in each.includeIn %}
 
+		{% if each.homePage ==true and item == page.includeAll %}
 
 		<li><a href="{{each.url}}">{{each.title}}</a></li>
 
+		{% endif %}
 
+	{%- endfor -%}
 
 {%- endfor -%}
 </ul>
