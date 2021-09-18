@@ -17,8 +17,8 @@ collections:
     output: true
   microlab:
     output: true
-  microlab/pathways:
-    output: true
+    order:
+      - pathways/EventDirector.md
   shared:
     output: true
 
