@@ -2,7 +2,7 @@
 title: Microlabs
 layout: default
 ---
-{% assign docs = site.shared | concat: site.microlab  %}
+{% assign all_docs = site.shared | concat: site.microlab  %}
 
 ## Welcome to the Microlab Guide
 
@@ -37,7 +37,7 @@ This guide is designed to provide you with much of the information you need to r
 
 ### Full Set Reading
 <ul>
-{%- for each in docs -%}
+{%- for each in all_docs -%}
 
 {% if each.homePage==true %}
 
