@@ -9,6 +9,24 @@ includeAll: microlab
 
 This guide is designed to provide you with much of the information you need to run a Microlab Session. We have organised the resources into "pathways". Each pathway is designed to meet the needs of a particular role in the event. If you are not sure about your role, it is probably best to start with the Organizing Committee pathway.
 
+### Pathways with subdirectories
+<ul>
+{%- for each in microlab/pathways -%}
+
+	{% for item in each.includeIn %}
+
+		{% if each.homePage ==true and item == page.includeAll %}
+
+		<li><a href="{{each.url}}">{{each.title}}</a></li>
+
+		{% endif %}
+
+	{%- endfor -%}
+
+{%- endfor -%}
+</ul>
+
+
 ### Pathways
 <ul>
 {%- for each in all_docs -%}
