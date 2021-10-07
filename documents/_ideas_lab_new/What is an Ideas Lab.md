@@ -13,13 +13,13 @@ language:
 # The Ideas Lab#
 
 ## What is it? ##
-An Ideas Lab is an intensive, interactive workshop designed to produce innovative research project proposals. Participants, from a diverse range of disciplines, come together in a creative, free-thinking environment – away from their everyday routines and responsibilities – and immerse themselves in a collaborative process around an important problem or challenge.
+An Ideas Lab, or Sandpit, is an intensive, interactive workshop designed to produce innovative research project proposals. Participants, from a diverse range of disciplines, come together in a creative, free-thinking environment – away from their everyday routines and responsibilities – and immerse themselves in a collaborative process around an important problem or challenge. This type of was originally called a Sandpit, and that name is still used in many parts of the world. However, when it was introduced into the U.S. the name was changed to Ideas Lab, because Sandbox (the US equivalent of a Sandpit) wasn't thought to be quite the right term. For simplicity, we use the term Ideas Lab in these documents, unless we are referring to a specific event, which was a Sandpit. 
 
-In the UK this event is called a Sandpit. It was conceived in 2003, by the Engineering and Physical Sciences Research Council (EPSRC), with the objective of inspiring innovative and inter-disciplinary research proposals. Knowinnovation helped with the early design, and we’ve been privileged to be involved with these workshops ever since.
+The Sandpit model was conceived in 2003, by the Engineering and Physical Sciences Research Council (EPSRC), with the objective of inspiring innovative and inter-disciplinary research proposals. Knowinnovation helped with the early design of these events, and we’ve been privileged to be involved with these workshops ever since.
 
-The event is usually a 5-day residential program, with 20 to 30 participants invited from different disciplines and organizations. Over the course of the week, the group works to deepen their shared understanding of the designated challenge, to redefine the problems within the challenge and to generate novel ideas for research proposals.
+Traditionally, an Ideas Lab was delivered as a 5-day residential program, with 20 to 30 participants invited from different disciplines and organizations. Over the course of the week, the group works to deepen their shared understanding of the designated challenge, to redefine the problems within the challenge and to generate novel ideas for research proposals. However, over time, and with the impact of the pandemic, the design has evolved to embrace both fully virtual, and hybrid models.
 
-Virtual Ideas Labs embody the same processes as face-to-face events, but have the advantage of greater flexibility in terms of timing, duration, and the number of participants. For those reasons, virtual events have become increasingly popular.
+Virtual, and hybrid Ideas Labs embody the same processes as face-to-face events, but have the advantage of greater flexibility in terms of timing, duration, and the number of participants. For those reasons, virtual events have become increasingly popular.
 
 The typical criteria used to measure the output of an Ideas Lab event include: 
 * Is it risky and cutting edge research? 
