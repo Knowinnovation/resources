@@ -32,7 +32,7 @@ An Ideas Lab is not a typical meeting. Nobody stands up to give their papers. Th
 If an Ideas Lab is organized by a national funding body, there are usually research funds associated with it. However, this is not an absolute requirement. As more institutions start to run their own internal events, the nature of the labs is changing. Internal events can be designed to generate novel, exciting, pre-proposals which can then be submitted to funding bodies.
 
 ## Types of Ideas Labs ##
-When Knowinnovation first started facilitating Sandpits and Ideas Labs, we identified two types of events that result in the production of novel and risky research proposals:
+When Knowinnovation first started facilitating Ideas Labs, we identified two distinct types of events that result in the production of novel and risky research proposals:
 
 ### Open-Ended Ideas Lab ###
 This workshop is designed to address a general question, and leaves room for a broad range of responses to the question. For instance Enhancing Photosynthesis or Using Maths to Understand the Evolutionary Process were two open-ended Ideas Labs. The organizers put forward an important and yet general question and participants were invited to come up with ideas.
@@ -49,19 +49,10 @@ This Lab might very well result in research to address a central question (for e
 Ideas Labs promote the development of innovative research proposals that address difficult, messy problems. Depending upon the history of the problem, the research community might have very different perspectives. For example, an event that focused on the educational opportunities for brain/computer interfaces, would probably be drawing upon a relatively clean canvas. But an Ideas lab looking for new approaches to broadening participation in STEM education, would have a wealth of existing work which may inform the design of the event. Understanding, broadly, the community’s position is essential in planning and executing a successful Ideas Lab.
 
 We ask three questions at the start of the planning process:
-1 Has the community developed a number of interesting, provocative ways of framing the problem?
-1 Does anyone, anywhere have ideas that are good enough to really solve this problem, and/or exploit the opportunities?
-1 If so, what is stopping us from solving it?
+1. Has the community developed a number of interesting, provocative ways of framing the problem?
+1. Does anyone, anywhere have ideas that are good enough to really solve this problem, and/or exploit the opportunities?
+1. If so, what is stopping us from solving it?
 Obviously, the answers to these questions are subjective and based on the organizers’ understanding of the area. But because program officers and faculty members are usually deeply involved with the community, their insights can be accurate and illuminating.
-
-### The Jumpstart ###
-Participants often go back to their institutions after an Ideas Lab and reflect on how the process can lead to a deeper understanding of a challenge and/or novel ideas to address it. But usually they don’t have the budget to do a full Ideas Lab, or it’s hard to pull too many of their internal staff away for five days. Knowinnovation offers a 3-day mini-Sandpit, called a Jumpstart.
-
-It is literally that – a Jumpstart to enable the right people to come together and start the creative process. If a Sandpit or an Ideas Lab is a marathon, the Jumpstart is a sprint, the 100-meter dash that allows people to get their creative juices flowing, which hopefully results – down the road – in novel solutions.
-
-Jumpstarts follow the same process as an Ideas Lab, except they run for a shorter time and participants don’t get as far in their thinking. They’ll generate potential ideas at the event, but the process of developing ideas into possible research projects must continue after the event, with groups working together on their own time to refine and add substance to their proposals.
-
-When time and resources are limited, the shorter program can certainly ignite new thinking and spur conversations that wouldn’t otherwise occur in typical day-to-day interaction. It’s a smaller spark for innovation, but a vibrant spark nonetheless. Ideas Labs and Jumpstarts are different in depth and detail, but in many ways the same steps must be taken to prepare for the event and to facilitate it. The guidelines laid out in this book can be used to prepare for an Ideas Lab or for a Jumpstart.
 
 ## Who Cares? ##
 We’ve also recognized that the presence, or absence, of stakeholders can impact in the design of an Ideas Lab. For this reason, we sometimes use a fourth question: who cares?
@@ -78,10 +69,10 @@ Getting to innovative research proposals is the primary objective, but there are
 ### Using Creative Problem Solving ###
 The Creative Problem Solving (CPS) process (on which Ideas Labs are based) has four broad stages:
 
-# **Clarification:** gathering data, formulating problem statements
-# **Ideation:** generating possibilities
-# **Development:** refining ideas into workable solutions
-# **Action:** creating project plans, and identifying obstacles
+* Clarification: gathering data, formulating problem statements
+* Ideation: generating possibilities
+* Development: refining ideas into workable solutions
+* Action: creating project plans, and identifying obstacles
 
 Any Ideas Lab will span all four stages, but there can be a significant difference in emphasis, which manifests itself in terms of where time is spent. For example, in 2009 we ran an Ideas Lab on Synthetic Biology. At the time, the field was relatively young, and even the definition of what’s involved in Synthetic Biology was still open for discussion. Not surprisingly, a significant amount of time was spent on understanding the problems that various researchers were exploring, and discussing possible ideas. Action plans were created, but they were not what some might consider highly detailed.
 
